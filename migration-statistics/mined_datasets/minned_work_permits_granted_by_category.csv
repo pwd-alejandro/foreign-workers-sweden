@@ -1,0 +1,485 @@
+year,permit_type,occupation_category,number_granted_applications
+2015,first-time,"Agriculture, forestry & fisheries",4260
+2015,first-time,"Arts, media & culture",110
+2015,first-time,"Business, finance & legal",411
+2015,first-time,Care & nursing aides,267
+2015,first-time,Cleaning & building maintenance,372
+2015,first-time,Construction trades,330
+2015,first-time,Doctors & dentists,41
+2015,first-time,Education,263
+2015,first-time,Engineering professionals,1127
+2015,first-time,General management,131
+2015,first-time,Hospitality & food service,1384
+2015,first-time,IT & software,3323
+2015,first-time,Manufacturing & factory work,206
+2015,first-time,Military & security,7
+2015,first-time,Natural sciences (research),51
+2015,first-time,Nurses & allied health,22
+2015,first-time,Personal services & sports,57
+2015,first-time,Religion & social work,33
+2015,first-time,"Sales, retail & marketing",427
+2015,first-time,Transport & logistics,133
+2015,first-time,Unknown / other,112
+2015,first-time,Vehicle & equipment mechanics,246
+2015,extension,"Agriculture, forestry & fisheries",0
+2015,extension,"Arts, media & culture",0
+2015,extension,"Business, finance & legal",0
+2015,extension,Care & nursing aides,0
+2015,extension,Cleaning & building maintenance,0
+2015,extension,Construction trades,0
+2015,extension,Doctors & dentists,0
+2015,extension,Education,0
+2015,extension,Engineering professionals,0
+2015,extension,General management,0
+2015,extension,Hospitality & food service,0
+2015,extension,IT & software,0
+2015,extension,Manufacturing & factory work,0
+2015,extension,Military & security,0
+2015,extension,Natural sciences (research),0
+2015,extension,Nurses & allied health,0
+2015,extension,Personal services & sports,0
+2015,extension,Religion & social work,0
+2015,extension,"Sales, retail & marketing",0
+2015,extension,Transport & logistics,0
+2015,extension,Unknown / other,0
+2015,extension,Vehicle & equipment mechanics,0
+2016,first-time,"Agriculture, forestry & fisheries",3468
+2016,first-time,"Arts, media & culture",144
+2016,first-time,"Business, finance & legal",398
+2016,first-time,Care & nursing aides,348
+2016,first-time,Cleaning & building maintenance,330
+2016,first-time,Construction trades,311
+2016,first-time,Doctors & dentists,53
+2016,first-time,Education,241
+2016,first-time,Engineering professionals,1225
+2016,first-time,General management,75
+2016,first-time,Hospitality & food service,986
+2016,first-time,IT & software,3867
+2016,first-time,Manufacturing & factory work,149
+2016,first-time,Military & security,5
+2016,first-time,Natural sciences (research),35
+2016,first-time,Nurses & allied health,23
+2016,first-time,Personal services & sports,58
+2016,first-time,Religion & social work,43
+2016,first-time,"Sales, retail & marketing",387
+2016,first-time,Transport & logistics,104
+2016,first-time,Unknown / other,25
+2016,first-time,Vehicle & equipment mechanics,251
+2016,extension,"Agriculture, forestry & fisheries",0
+2016,extension,"Arts, media & culture",0
+2016,extension,"Business, finance & legal",0
+2016,extension,Care & nursing aides,0
+2016,extension,Cleaning & building maintenance,0
+2016,extension,Construction trades,0
+2016,extension,Doctors & dentists,0
+2016,extension,Education,0
+2016,extension,Engineering professionals,0
+2016,extension,General management,0
+2016,extension,Hospitality & food service,0
+2016,extension,IT & software,0
+2016,extension,Manufacturing & factory work,0
+2016,extension,Military & security,0
+2016,extension,Natural sciences (research),0
+2016,extension,Nurses & allied health,0
+2016,extension,Personal services & sports,0
+2016,extension,Religion & social work,0
+2016,extension,"Sales, retail & marketing",0
+2016,extension,Transport & logistics,0
+2016,extension,Unknown / other,0
+2016,extension,Vehicle & equipment mechanics,0
+2017,first-time,"Agriculture, forestry & fisheries",3477
+2017,first-time,"Arts, media & culture",212
+2017,first-time,"Business, finance & legal",573
+2017,first-time,Care & nursing aides,362
+2017,first-time,Cleaning & building maintenance,750
+2017,first-time,Construction trades,538
+2017,first-time,Doctors & dentists,61
+2017,first-time,Education,290
+2017,first-time,Engineering professionals,1615
+2017,first-time,General management,71
+2017,first-time,Hospitality & food service,1719
+2017,first-time,IT & software,4407
+2017,first-time,Manufacturing & factory work,212
+2017,first-time,Military & security,7
+2017,first-time,Natural sciences (research),41
+2017,first-time,Nurses & allied health,87
+2017,first-time,Personal services & sports,126
+2017,first-time,Religion & social work,39
+2017,first-time,"Sales, retail & marketing",482
+2017,first-time,Transport & logistics,190
+2017,first-time,Unknown / other,66
+2017,first-time,Vehicle & equipment mechanics,227
+2017,extension,"Agriculture, forestry & fisheries",0
+2017,extension,"Arts, media & culture",0
+2017,extension,"Business, finance & legal",0
+2017,extension,Care & nursing aides,0
+2017,extension,Cleaning & building maintenance,0
+2017,extension,Construction trades,0
+2017,extension,Doctors & dentists,0
+2017,extension,Education,0
+2017,extension,Engineering professionals,0
+2017,extension,General management,0
+2017,extension,Hospitality & food service,0
+2017,extension,IT & software,0
+2017,extension,Manufacturing & factory work,0
+2017,extension,Military & security,0
+2017,extension,Natural sciences (research),0
+2017,extension,Nurses & allied health,0
+2017,extension,Personal services & sports,0
+2017,extension,Religion & social work,0
+2017,extension,"Sales, retail & marketing",0
+2017,extension,Transport & logistics,0
+2017,extension,Unknown / other,0
+2017,extension,Vehicle & equipment mechanics,0
+2018,first-time,"Agriculture, forestry & fisheries",5411
+2018,first-time,"Arts, media & culture",497
+2018,first-time,"Business, finance & legal",636
+2018,first-time,Care & nursing aides,376
+2018,first-time,Cleaning & building maintenance,1023
+2018,first-time,Construction trades,1157
+2018,first-time,Doctors & dentists,68
+2018,first-time,Education,301
+2018,first-time,Engineering professionals,2006
+2018,first-time,General management,75
+2018,first-time,Hospitality & food service,2326
+2018,first-time,IT & software,4971
+2018,first-time,Manufacturing & factory work,376
+2018,first-time,Military & security,10
+2018,first-time,Natural sciences (research),54
+2018,first-time,Nurses & allied health,97
+2018,first-time,Personal services & sports,192
+2018,first-time,Religion & social work,41
+2018,first-time,"Sales, retail & marketing",572
+2018,first-time,Transport & logistics,278
+2018,first-time,Unknown / other,118
+2018,first-time,Vehicle & equipment mechanics,256
+2018,extension,"Agriculture, forestry & fisheries",0
+2018,extension,"Arts, media & culture",0
+2018,extension,"Business, finance & legal",0
+2018,extension,Care & nursing aides,0
+2018,extension,Cleaning & building maintenance,0
+2018,extension,Construction trades,0
+2018,extension,Doctors & dentists,0
+2018,extension,Education,0
+2018,extension,Engineering professionals,0
+2018,extension,General management,0
+2018,extension,Hospitality & food service,0
+2018,extension,IT & software,0
+2018,extension,Manufacturing & factory work,0
+2018,extension,Military & security,0
+2018,extension,Natural sciences (research),0
+2018,extension,Nurses & allied health,0
+2018,extension,Personal services & sports,0
+2018,extension,Religion & social work,0
+2018,extension,"Sales, retail & marketing",0
+2018,extension,Transport & logistics,0
+2018,extension,Unknown / other,0
+2018,extension,Vehicle & equipment mechanics,0
+2019,first-time,"Agriculture, forestry & fisheries",6949
+2019,first-time,"Arts, media & culture",192
+2019,first-time,"Business, finance & legal",699
+2019,first-time,Care & nursing aides,228
+2019,first-time,Cleaning & building maintenance,1060
+2019,first-time,Construction trades,1256
+2019,first-time,Doctors & dentists,66
+2019,first-time,Education,280
+2019,first-time,Engineering professionals,2016
+2019,first-time,General management,94
+2019,first-time,Hospitality & food service,2299
+2019,first-time,IT & software,4902
+2019,first-time,Manufacturing & factory work,440
+2019,first-time,Military & security,10
+2019,first-time,Natural sciences (research),61
+2019,first-time,Nurses & allied health,107
+2019,first-time,Personal services & sports,173
+2019,first-time,Religion & social work,23
+2019,first-time,"Sales, retail & marketing",538
+2019,first-time,Transport & logistics,294
+2019,first-time,Unknown / other,39
+2019,first-time,Vehicle & equipment mechanics,224
+2019,extension,"Agriculture, forestry & fisheries",0
+2019,extension,"Arts, media & culture",0
+2019,extension,"Business, finance & legal",0
+2019,extension,Care & nursing aides,0
+2019,extension,Cleaning & building maintenance,0
+2019,extension,Construction trades,0
+2019,extension,Doctors & dentists,0
+2019,extension,Education,0
+2019,extension,Engineering professionals,0
+2019,extension,General management,0
+2019,extension,Hospitality & food service,0
+2019,extension,IT & software,0
+2019,extension,Manufacturing & factory work,0
+2019,extension,Military & security,0
+2019,extension,Natural sciences (research),0
+2019,extension,Nurses & allied health,0
+2019,extension,Personal services & sports,0
+2019,extension,Religion & social work,0
+2019,extension,"Sales, retail & marketing",0
+2019,extension,Transport & logistics,0
+2019,extension,Unknown / other,0
+2019,extension,Vehicle & equipment mechanics,0
+2020,first-time,"Agriculture, forestry & fisheries",4661
+2020,first-time,"Arts, media & culture",208
+2020,first-time,"Business, finance & legal",469
+2020,first-time,Care & nursing aides,238
+2020,first-time,Cleaning & building maintenance,866
+2020,first-time,Construction trades,1080
+2020,first-time,Doctors & dentists,84
+2020,first-time,Education,197
+2020,first-time,Engineering professionals,1337
+2020,first-time,General management,76
+2020,first-time,Hospitality & food service,1619
+2020,first-time,IT & software,2870
+2020,first-time,Manufacturing & factory work,251
+2020,first-time,Military & security,14
+2020,first-time,Natural sciences (research),68
+2020,first-time,Nurses & allied health,78
+2020,first-time,Personal services & sports,115
+2020,first-time,Religion & social work,19
+2020,first-time,"Sales, retail & marketing",496
+2020,first-time,Transport & logistics,266
+2020,first-time,Unknown / other,66
+2020,first-time,Vehicle & equipment mechanics,153
+2020,extension,"Agriculture, forestry & fisheries",0
+2020,extension,"Arts, media & culture",0
+2020,extension,"Business, finance & legal",0
+2020,extension,Care & nursing aides,0
+2020,extension,Cleaning & building maintenance,0
+2020,extension,Construction trades,0
+2020,extension,Doctors & dentists,0
+2020,extension,Education,0
+2020,extension,Engineering professionals,0
+2020,extension,General management,0
+2020,extension,Hospitality & food service,0
+2020,extension,IT & software,0
+2020,extension,Manufacturing & factory work,0
+2020,extension,Military & security,0
+2020,extension,Natural sciences (research),0
+2020,extension,Nurses & allied health,0
+2020,extension,Personal services & sports,0
+2020,extension,Religion & social work,0
+2020,extension,"Sales, retail & marketing",0
+2020,extension,Transport & logistics,0
+2020,extension,Unknown / other,0
+2020,extension,Vehicle & equipment mechanics,0
+2021,first-time,"Agriculture, forestry & fisheries",7153
+2021,first-time,"Arts, media & culture",302
+2021,first-time,"Business, finance & legal",796
+2021,first-time,Care & nursing aides,211
+2021,first-time,Cleaning & building maintenance,840
+2021,first-time,Construction trades,893
+2021,first-time,Doctors & dentists,85
+2021,first-time,Education,292
+2021,first-time,Engineering professionals,2718
+2021,first-time,General management,90
+2021,first-time,Hospitality & food service,1322
+2021,first-time,IT & software,4194
+2021,first-time,Manufacturing & factory work,382
+2021,first-time,Military & security,9
+2021,first-time,Natural sciences (research),112
+2021,first-time,Nurses & allied health,84
+2021,first-time,Personal services & sports,79
+2021,first-time,Religion & social work,21
+2021,first-time,"Sales, retail & marketing",609
+2021,first-time,Transport & logistics,349
+2021,first-time,Unknown / other,45
+2021,first-time,Vehicle & equipment mechanics,167
+2021,extension,"Agriculture, forestry & fisheries",0
+2021,extension,"Arts, media & culture",0
+2021,extension,"Business, finance & legal",0
+2021,extension,Care & nursing aides,0
+2021,extension,Cleaning & building maintenance,0
+2021,extension,Construction trades,0
+2021,extension,Doctors & dentists,0
+2021,extension,Education,0
+2021,extension,Engineering professionals,0
+2021,extension,General management,0
+2021,extension,Hospitality & food service,0
+2021,extension,IT & software,0
+2021,extension,Manufacturing & factory work,0
+2021,extension,Military & security,0
+2021,extension,Natural sciences (research),0
+2021,extension,Nurses & allied health,0
+2021,extension,Personal services & sports,0
+2021,extension,Religion & social work,0
+2021,extension,"Sales, retail & marketing",0
+2021,extension,Transport & logistics,0
+2021,extension,Unknown / other,0
+2021,extension,Vehicle & equipment mechanics,0
+2022,first-time,"Agriculture, forestry & fisheries",7534
+2022,first-time,"Arts, media & culture",289
+2022,first-time,"Business, finance & legal",1004
+2022,first-time,Care & nursing aides,220
+2022,first-time,Cleaning & building maintenance,933
+2022,first-time,Construction trades,889
+2022,first-time,Doctors & dentists,106
+2022,first-time,Education,249
+2022,first-time,Engineering professionals,3650
+2022,first-time,General management,99
+2022,first-time,Hospitality & food service,1619
+2022,first-time,IT & software,5521
+2022,first-time,Manufacturing & factory work,283
+2022,first-time,Military & security,28
+2022,first-time,Natural sciences (research),114
+2022,first-time,Nurses & allied health,80
+2022,first-time,Personal services & sports,115
+2022,first-time,Religion & social work,25
+2022,first-time,"Sales, retail & marketing",685
+2022,first-time,Transport & logistics,373
+2022,first-time,Unknown / other,77
+2022,first-time,Vehicle & equipment mechanics,224
+2022,extension,"Agriculture, forestry & fisheries",117
+2022,extension,"Arts, media & culture",201
+2022,extension,"Business, finance & legal",593
+2022,extension,Care & nursing aides,287
+2022,extension,Cleaning & building maintenance,804
+2022,extension,Construction trades,715
+2022,extension,Doctors & dentists,185
+2022,extension,Education,332
+2022,extension,Engineering professionals,1909
+2022,extension,General management,64
+2022,extension,Hospitality & food service,1731
+2022,extension,IT & software,4021
+2022,extension,Manufacturing & factory work,302
+2022,extension,Military & security,15
+2022,extension,Natural sciences (research),60
+2022,extension,Nurses & allied health,94
+2022,extension,Personal services & sports,129
+2022,extension,Religion & social work,29
+2022,extension,"Sales, retail & marketing",572
+2022,extension,Transport & logistics,335
+2022,extension,Unknown / other,234
+2022,extension,Vehicle & equipment mechanics,120
+2023,first-time,"Agriculture, forestry & fisheries",6495
+2023,first-time,"Arts, media & culture",234
+2023,first-time,"Business, finance & legal",876
+2023,first-time,Care & nursing aides,231
+2023,first-time,Cleaning & building maintenance,644
+2023,first-time,Construction trades,661
+2023,first-time,Doctors & dentists,160
+2023,first-time,Education,268
+2023,first-time,Engineering professionals,3671
+2023,first-time,General management,143
+2023,first-time,Hospitality & food service,1375
+2023,first-time,IT & software,4164
+2023,first-time,Manufacturing & factory work,285
+2023,first-time,Military & security,10
+2023,first-time,Natural sciences (research),156
+2023,first-time,Nurses & allied health,105
+2023,first-time,Personal services & sports,118
+2023,first-time,Religion & social work,18
+2023,first-time,"Sales, retail & marketing",629
+2023,first-time,Transport & logistics,335
+2023,first-time,Unknown / other,98
+2023,first-time,Vehicle & equipment mechanics,147
+2023,extension,"Agriculture, forestry & fisheries",200
+2023,extension,"Arts, media & culture",521
+2023,extension,"Business, finance & legal",1335
+2023,extension,Care & nursing aides,365
+2023,extension,Cleaning & building maintenance,1265
+2023,extension,Construction trades,1119
+2023,extension,Doctors & dentists,351
+2023,extension,Education,452
+2023,extension,Engineering professionals,4246
+2023,extension,General management,111
+2023,extension,Hospitality & food service,2162
+2023,extension,IT & software,8431
+2023,extension,Manufacturing & factory work,464
+2023,extension,Military & security,10
+2023,extension,Natural sciences (research),168
+2023,extension,Nurses & allied health,175
+2023,extension,Personal services & sports,163
+2023,extension,Religion & social work,50
+2023,extension,"Sales, retail & marketing",1153
+2023,extension,Transport & logistics,481
+2023,extension,Unknown / other,140
+2023,extension,Vehicle & equipment mechanics,170
+2024,first-time,"Agriculture, forestry & fisheries",2655
+2024,first-time,"Arts, media & culture",192
+2024,first-time,"Business, finance & legal",698
+2024,first-time,Care & nursing aides,111
+2024,first-time,Cleaning & building maintenance,302
+2024,first-time,Construction trades,376
+2024,first-time,Doctors & dentists,139
+2024,first-time,Education,171
+2024,first-time,Engineering professionals,3325
+2024,first-time,General management,85
+2024,first-time,Hospitality & food service,674
+2024,first-time,IT & software,2907
+2024,first-time,Manufacturing & factory work,409
+2024,first-time,Military & security,14
+2024,first-time,Natural sciences (research),156
+2024,first-time,Nurses & allied health,79
+2024,first-time,Personal services & sports,63
+2024,first-time,Religion & social work,23
+2024,first-time,"Sales, retail & marketing",507
+2024,first-time,Transport & logistics,285
+2024,first-time,Unknown / other,100
+2024,first-time,Vehicle & equipment mechanics,156
+2024,extension,"Agriculture, forestry & fisheries",235
+2024,extension,"Arts, media & culture",360
+2024,extension,"Business, finance & legal",1082
+2024,extension,Care & nursing aides,390
+2024,extension,Cleaning & building maintenance,957
+2024,extension,Construction trades,909
+2024,extension,Doctors & dentists,456
+2024,extension,Education,377
+2024,extension,Engineering professionals,4514
+2024,extension,General management,102
+2024,extension,Hospitality & food service,1585
+2024,extension,IT & software,6706
+2024,extension,Manufacturing & factory work,429
+2024,extension,Military & security,14
+2024,extension,Natural sciences (research),180
+2024,extension,Nurses & allied health,304
+2024,extension,Personal services & sports,132
+2024,extension,Religion & social work,47
+2024,extension,"Sales, retail & marketing",937
+2024,extension,Transport & logistics,579
+2024,extension,Unknown / other,201
+2024,extension,Vehicle & equipment mechanics,200
+2025,first-time,"Agriculture, forestry & fisheries",2390
+2025,first-time,"Arts, media & culture",156
+2025,first-time,"Business, finance & legal",560
+2025,first-time,Care & nursing aides,111
+2025,first-time,Cleaning & building maintenance,249
+2025,first-time,Construction trades,501
+2025,first-time,Doctors & dentists,117
+2025,first-time,Education,99
+2025,first-time,Engineering professionals,2470
+2025,first-time,General management,83
+2025,first-time,Hospitality & food service,516
+2025,first-time,IT & software,2489
+2025,first-time,Manufacturing & factory work,237
+2025,first-time,Military & security,16
+2025,first-time,Natural sciences (research),116
+2025,first-time,Nurses & allied health,73
+2025,first-time,Personal services & sports,53
+2025,first-time,Religion & social work,16
+2025,first-time,"Sales, retail & marketing",445
+2025,first-time,Transport & logistics,238
+2025,first-time,Unknown / other,84
+2025,first-time,Vehicle & equipment mechanics,81
+2025,extension,"Agriculture, forestry & fisheries",203
+2025,extension,"Arts, media & culture",378
+2025,extension,"Business, finance & legal",1123
+2025,extension,Care & nursing aides,345
+2025,extension,Cleaning & building maintenance,871
+2025,extension,Construction trades,909
+2025,extension,Doctors & dentists,460
+2025,extension,Education,328
+2025,extension,Engineering professionals,4008
+2025,extension,General management,121
+2025,extension,Hospitality & food service,1537
+2025,extension,IT & software,6257
+2025,extension,Manufacturing & factory work,412
+2025,extension,Military & security,13
+2025,extension,Natural sciences (research),236
+2025,extension,Nurses & allied health,273
+2025,extension,Personal services & sports,128
+2025,extension,Religion & social work,23
+2025,extension,"Sales, retail & marketing",1022
+2025,extension,Transport & logistics,615
+2025,extension,Unknown / other,166
+2025,extension,Vehicle & equipment mechanics,177

@@ -1,0 +1,519 @@
+industry_code,industry_label,quarter,average_recruitment_months,margin_of_error
+A,"companies in agriculture, forestry and fishing",2015K1,..,..
+A,"companies in agriculture, forestry and fishing",2015K2,..,..
+A,"companies in agriculture, forestry and fishing",2015K3,..,..
+A,"companies in agriculture, forestry and fishing",2015K4,..,..
+A,"companies in agriculture, forestry and fishing",2016K1,..,..
+A,"companies in agriculture, forestry and fishing",2016K2,..,..
+A,"companies in agriculture, forestry and fishing",2016K3,..,..
+A,"companies in agriculture, forestry and fishing",2016K4,..,..
+A,"companies in agriculture, forestry and fishing",2017K1,..,..
+A,"companies in agriculture, forestry and fishing",2017K2,0.2,0.2
+A,"companies in agriculture, forestry and fishing",2017K3,..,..
+A,"companies in agriculture, forestry and fishing",2017K4,..,..
+A,"companies in agriculture, forestry and fishing",2018K1,..,..
+A,"companies in agriculture, forestry and fishing",2018K2,..,..
+A,"companies in agriculture, forestry and fishing",2018K3,..,..
+A,"companies in agriculture, forestry and fishing",2018K4,..,..
+A,"companies in agriculture, forestry and fishing",2019K1,..,..
+A,"companies in agriculture, forestry and fishing",2019K2,..,..
+A,"companies in agriculture, forestry and fishing",2019K3,..,..
+A,"companies in agriculture, forestry and fishing",2019K4,..,..
+A,"companies in agriculture, forestry and fishing",2020K1,..,..
+A,"companies in agriculture, forestry and fishing",2020K2,..,..
+A,"companies in agriculture, forestry and fishing",2020K3,..,..
+A,"companies in agriculture, forestry and fishing",2020K4,..,..
+A,"companies in agriculture, forestry and fishing",2021K1,..,..
+A,"companies in agriculture, forestry and fishing",2021K2,..,..
+A,"companies in agriculture, forestry and fishing",2021K3,..,..
+A,"companies in agriculture, forestry and fishing",2021K4,..,..
+A,"companies in agriculture, forestry and fishing",2022K1,..,..
+A,"companies in agriculture, forestry and fishing",2022K2,..,..
+A,"companies in agriculture, forestry and fishing",2022K3,..,..
+A,"companies in agriculture, forestry and fishing",2022K4,..,..
+A,"companies in agriculture, forestry and fishing",2023K1,..,..
+A,"companies in agriculture, forestry and fishing",2023K2,..,..
+A,"companies in agriculture, forestry and fishing",2023K3,..,..
+A,"companies in agriculture, forestry and fishing",2023K4,..,..
+A,"companies in agriculture, forestry and fishing",2024K1,..,..
+A-S,"total, business sector",2015K1,1.0,0.1
+A-S,"total, business sector",2015K2,0.7,0.1
+A-S,"total, business sector",2015K3,0.7,0.1
+A-S,"total, business sector",2015K4,0.9,0.1
+A-S,"total, business sector",2016K1,1.1,0.1
+A-S,"total, business sector",2016K2,0.8,0.1
+A-S,"total, business sector",2016K3,0.8,0.1
+A-S,"total, business sector",2016K4,1.0,0.1
+A-S,"total, business sector",2017K1,1.1,0.1
+A-S,"total, business sector",2017K2,0.7,0.1
+A-S,"total, business sector",2017K3,0.9,0.1
+A-S,"total, business sector",2017K4,1.1,0.1
+A-S,"total, business sector",2018K1,1.3,0.1
+A-S,"total, business sector",2018K2,0.8,0.1
+A-S,"total, business sector",2018K3,0.9,0.1
+A-S,"total, business sector",2018K4,1.0,0.1
+A-S,"total, business sector",2019K1,1.2,0.1
+A-S,"total, business sector",2019K2,0.8,0.1
+A-S,"total, business sector",2019K3,0.8,0.1
+A-S,"total, business sector",2019K4,0.9,0.1
+A-S,"total, business sector",2020K1,1.1,0.1
+A-S,"total, business sector",2020K2,0.6,0.1
+A-S,"total, business sector",2020K3,0.6,0.1
+A-S,"total, business sector",2020K4,0.8,0.1
+A-S,"total, business sector",2021K1,1.0,0.1
+A-S,"total, business sector",2021K2,0.8,0.1
+A-S,"total, business sector",2021K3,0.8,0.1
+A-S,"total, business sector",2021K4,0.9,0.1
+A-S,"total, business sector",2022K1,1.1,0.2
+A-S,"total, business sector",2022K2,0.9,0.1
+A-S,"total, business sector",2022K3,1.1,0.1
+A-S,"total, business sector",2022K4,1.2,0.1
+A-S,"total, business sector",2023K1,1.5,0.2
+A-S,"total, business sector",2023K2,0.9,0.1
+A-S,"total, business sector",2023K3,0.9,0.1
+A-S,"total, business sector",2023K4,0.9,0.1
+A-S,"total, business sector",2024K1,1.1,0.1
+B+C,"mining, quarrying, manufacturing ",2015K1,1.2,0.1
+B+C,"mining, quarrying, manufacturing ",2015K2,0.5,0.1
+B+C,"mining, quarrying, manufacturing ",2015K3,0.6,0.1
+B+C,"mining, quarrying, manufacturing ",2015K4,1.0,0.1
+B+C,"mining, quarrying, manufacturing ",2016K1,1.3,0.2
+B+C,"mining, quarrying, manufacturing ",2016K2,0.7,0.1
+B+C,"mining, quarrying, manufacturing ",2016K3,0.8,0.1
+B+C,"mining, quarrying, manufacturing ",2016K4,1.1,0.1
+B+C,"mining, quarrying, manufacturing ",2017K1,1.4,0.1
+B+C,"mining, quarrying, manufacturing ",2017K2,0.8,0.1
+B+C,"mining, quarrying, manufacturing ",2017K3,1.0,0.1
+B+C,"mining, quarrying, manufacturing ",2017K4,1.3,0.1
+B+C,"mining, quarrying, manufacturing ",2018K1,1.6,0.2
+B+C,"mining, quarrying, manufacturing ",2018K2,0.9,0.1
+B+C,"mining, quarrying, manufacturing ",2018K3,1.1,0.1
+B+C,"mining, quarrying, manufacturing ",2018K4,1.3,0.2
+B+C,"mining, quarrying, manufacturing ",2019K1,1.6,0.2
+B+C,"mining, quarrying, manufacturing ",2019K2,1.0,0.1
+B+C,"mining, quarrying, manufacturing ",2019K3,0.8,0.1
+B+C,"mining, quarrying, manufacturing ",2019K4,1.5,0.2
+B+C,"mining, quarrying, manufacturing ",2020K1,1.6,0.2
+B+C,"mining, quarrying, manufacturing ",2020K2,0.7,0.1
+B+C,"mining, quarrying, manufacturing ",2020K3,0.8,0.1
+B+C,"mining, quarrying, manufacturing ",2020K4,1.1,0.1
+B+C,"mining, quarrying, manufacturing ",2021K1,1.5,0.1
+B+C,"mining, quarrying, manufacturing ",2021K2,0.8,0.1
+B+C,"mining, quarrying, manufacturing ",2021K3,1.1,0.1
+B+C,"mining, quarrying, manufacturing ",2021K4,1.5,0.1
+B+C,"mining, quarrying, manufacturing ",2022K1,1.8,0.1
+B+C,"mining, quarrying, manufacturing ",2022K2,1.1,0.1
+B+C,"mining, quarrying, manufacturing ",2022K3,1.2,0.1
+B+C,"mining, quarrying, manufacturing ",2022K4,1.8,0.2
+B+C,"mining, quarrying, manufacturing ",2023K1,2.2,0.2
+B+C,"mining, quarrying, manufacturing ",2023K2,1.1,0.2
+B+C,"mining, quarrying, manufacturing ",2023K3,1.4,0.4
+B+C,"mining, quarrying, manufacturing ",2023K4,1.5,0.2
+B+C,"mining, quarrying, manufacturing ",2024K1,2.3,0.2
+D+E,energy and environmental companies,2015K1,1.3,0.3
+D+E,energy and environmental companies,2015K2,0.9,0.2
+D+E,energy and environmental companies,2015K3,1.1,0.3
+D+E,energy and environmental companies,2015K4,1.5,0.4
+D+E,energy and environmental companies,2016K1,1.4,0.5
+D+E,energy and environmental companies,2016K2,1.2,0.4
+D+E,energy and environmental companies,2016K3,1.1,0.3
+D+E,energy and environmental companies,2016K4,1.9,0.5
+D+E,energy and environmental companies,2017K1,1.5,0.5
+D+E,energy and environmental companies,2017K2,0.8,0.2
+D+E,energy and environmental companies,2017K3,1.3,0.4
+D+E,energy and environmental companies,2017K4,1.7,0.5
+D+E,energy and environmental companies,2018K1,1.7,0.4
+D+E,energy and environmental companies,2018K2,0.9,0.2
+D+E,energy and environmental companies,2018K3,1.3,0.4
+D+E,energy and environmental companies,2018K4,2.0,0.5
+D+E,energy and environmental companies,2019K1,1.7,0.5
+D+E,energy and environmental companies,2019K2,1.3,0.3
+D+E,energy and environmental companies,2019K3,1.5,0.4
+D+E,energy and environmental companies,2019K4,2.1,0.5
+D+E,energy and environmental companies,2020K1,1.9,0.4
+D+E,energy and environmental companies,2020K2,1.5,0.4
+D+E,energy and environmental companies,2020K3,1.5,0.4
+D+E,energy and environmental companies,2020K4,1.6,0.4
+D+E,energy and environmental companies,2021K1,1.5,0.4
+D+E,energy and environmental companies,2021K2,1.5,0.3
+D+E,energy and environmental companies,2021K3,1.9,0.4
+D+E,energy and environmental companies,2021K4,2.2,0.5
+D+E,energy and environmental companies,2022K1,2.1,0.5
+D+E,energy and environmental companies,2022K2,1.7,0.4
+D+E,energy and environmental companies,2022K3,2.0,0.4
+D+E,energy and environmental companies,2022K4,2.6,0.6
+D+E,energy and environmental companies,2023K1,2.3,0.5
+D+E,energy and environmental companies,2023K2,1.9,0.4
+D+E,energy and environmental companies,2023K3,2.2,0.5
+D+E,energy and environmental companies,2023K4,2.9,0.8
+D+E,energy and environmental companies,2024K1,2.6,0.5
+F,construction industry,2015K1,0.7,0.2
+F,construction industry,2015K2,0.6,0.3
+F,construction industry,2015K3,1.0,0.3
+F,construction industry,2015K4,0.7,0.5
+F,construction industry,2016K1,0.9,0.3
+F,construction industry,2016K2,1.0,0.3
+F,construction industry,2016K3,1.0,0.4
+F,construction industry,2016K4,1.5,0.6
+F,construction industry,2017K1,1.0,0.3
+F,construction industry,2017K2,0.8,0.3
+F,construction industry,2017K3,1.1,0.4
+F,construction industry,2017K4,1.5,0.5
+F,construction industry,2018K1,1.4,0.6
+F,construction industry,2018K2,0.7,0.2
+F,construction industry,2018K3,0.9,0.4
+F,construction industry,2018K4,1.4,0.7
+F,construction industry,2019K1,1.0,0.4
+F,construction industry,2019K2,0.8,0.2
+F,construction industry,2019K3,1.3,0.6
+F,construction industry,2019K4,1.1,0.5
+F,construction industry,2020K1,1.2,0.5
+F,construction industry,2020K2,0.7,0.3
+F,construction industry,2020K3,0.6,0.3
+F,construction industry,2020K4,0.8,0.3
+F,construction industry,2021K1,0.8,0.3
+F,construction industry,2021K2,0.7,0.2
+F,construction industry,2021K3,1.0,0.3
+F,construction industry,2021K4,1.4,0.5
+F,construction industry,2022K1,1.4,0.5
+F,construction industry,2022K2,1.1,0.4
+F,construction industry,2022K3,1.5,0.5
+F,construction industry,2022K4,1.1,0.4
+F,construction industry,2023K1,1.7,0.8
+F,construction industry,2023K2,1.0,0.3
+F,construction industry,2023K3,0.8,0.3
+F,construction industry,2023K4,0.9,0.4
+F,construction industry,2024K1,0.6,0.4
+G,trade; repair establishments for motor vehicles and motorcycles,2015K1,0.9,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2015K2,0.4,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2015K3,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2015K4,0.6,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2016K1,0.8,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2016K2,0.6,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2016K3,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2016K4,0.9,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2017K1,1.0,0.3
+G,trade; repair establishments for motor vehicles and motorcycles,2017K2,0.6,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2017K3,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2017K4,0.9,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2018K1,1.2,0.3
+G,trade; repair establishments for motor vehicles and motorcycles,2018K2,0.6,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2018K3,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2018K4,0.6,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2019K1,1.0,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2019K2,0.5,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2019K3,0.5,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2019K4,0.7,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2020K1,0.9,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2020K2,0.5,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2020K3,0.5,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2020K4,0.6,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2021K1,1.0,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2021K2,0.7,0.1
+G,trade; repair establishments for motor vehicles and motorcycles,2021K3,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2021K4,0.5,0.3
+G,trade; repair establishments for motor vehicles and motorcycles,2022K1,0.7,0.5
+G,trade; repair establishments for motor vehicles and motorcycles,2022K2,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2022K3,0.9,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2022K4,0.9,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2023K1,1.7,0.7
+G,trade; repair establishments for motor vehicles and motorcycles,2023K2,0.8,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2023K3,0.8,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2023K4,0.7,0.2
+G,trade; repair establishments for motor vehicles and motorcycles,2024K1,0.9,0.2
+H,transport and storage companies,2015K1,0.8,0.2
+H,transport and storage companies,2015K2,0.4,0.1
+H,transport and storage companies,2015K3,0.5,0.2
+H,transport and storage companies,2015K4,0.7,0.2
+H,transport and storage companies,2016K1,0.9,0.3
+H,transport and storage companies,2016K2,0.6,0.1
+H,transport and storage companies,2016K3,0.6,0.2
+H,transport and storage companies,2016K4,0.6,0.2
+H,transport and storage companies,2017K1,0.9,0.3
+H,transport and storage companies,2017K2,0.8,0.2
+H,transport and storage companies,2017K3,0.7,0.2
+H,transport and storage companies,2017K4,1.0,0.3
+H,transport and storage companies,2018K1,1.2,0.5
+H,transport and storage companies,2018K2,0.8,0.3
+H,transport and storage companies,2018K3,0.9,0.5
+H,transport and storage companies,2018K4,0.8,0.4
+H,transport and storage companies,2019K1,1.2,0.3
+H,transport and storage companies,2019K2,0.8,0.3
+H,transport and storage companies,2019K3,1.0,0.4
+H,transport and storage companies,2019K4,0.6,0.2
+H,transport and storage companies,2020K1,1.2,0.4
+H,transport and storage companies,2020K2,0.5,0.2
+H,transport and storage companies,2020K3,0.4,0.1
+H,transport and storage companies,2020K4,0.5,0.1
+H,transport and storage companies,2021K1,0.8,0.4
+H,transport and storage companies,2021K2,0.8,0.2
+H,transport and storage companies,2021K3,0.6,0.2
+H,transport and storage companies,2021K4,0.5,0.1
+H,transport and storage companies,2022K1,0.9,0.2
+H,transport and storage companies,2022K2,0.7,0.2
+H,transport and storage companies,2022K3,0.8,0.3
+H,transport and storage companies,2022K4,0.8,0.2
+H,transport and storage companies,2023K1,1.1,0.3
+H,transport and storage companies,2023K2,0.8,0.2
+H,transport and storage companies,2023K3,0.7,0.3
+H,transport and storage companies,2023K4,0.8,0.2
+H,transport and storage companies,2024K1,1.2,0.3
+I,hotels and restaurants,2015K1,0.6,0.2
+I,hotels and restaurants,2015K2,0.5,0.3
+I,hotels and restaurants,2015K3,0.5,0.3
+I,hotels and restaurants,2015K4,0.7,0.3
+I,hotels and restaurants,2016K1,0.7,0.3
+I,hotels and restaurants,2016K2,0.5,0.2
+I,hotels and restaurants,2016K3,0.5,0.3
+I,hotels and restaurants,2016K4,0.5,0.2
+I,hotels and restaurants,2017K1,0.8,0.4
+I,hotels and restaurants,2017K2,0.5,0.3
+I,hotels and restaurants,2017K3,0.4,0.2
+I,hotels and restaurants,2017K4,0.4,0.2
+I,hotels and restaurants,2018K1,0.5,0.3
+I,hotels and restaurants,2018K2,0.3,0.1
+I,hotels and restaurants,2018K3,0.3,0.2
+I,hotels and restaurants,2018K4,0.4,0.2
+I,hotels and restaurants,2019K1,1.0,0.4
+I,hotels and restaurants,2019K2,0.4,0.2
+I,hotels and restaurants,2019K3,0.4,0.2
+I,hotels and restaurants,2019K4,0.2,0.2
+I,hotels and restaurants,2020K1,0.8,0.4
+I,hotels and restaurants,2020K2,0.1,0.1
+I,hotels and restaurants,2020K3,0.2,0.1
+I,hotels and restaurants,2020K4,..,..
+I,hotels and restaurants,2021K1,0.3,0.2
+I,hotels and restaurants,2021K2,0.3,0.2
+I,hotels and restaurants,2021K3,0.4,0.2
+I,hotels and restaurants,2021K4,0.2,0.1
+I,hotels and restaurants,2022K1,0.4,0.3
+I,hotels and restaurants,2022K2,0.4,0.3
+I,hotels and restaurants,2022K3,0.4,0.2
+I,hotels and restaurants,2022K4,0.2,0.1
+I,hotels and restaurants,2023K1,0.8,0.4
+I,hotels and restaurants,2023K2,0.2,0.1
+I,hotels and restaurants,2023K3,0.2,0.1
+I,hotels and restaurants,2023K4,..,..
+I,hotels and restaurants,2024K1,0.2,0.1
+J,information and communication companies,2015K1,1.7,0.5
+J,information and communication companies,2015K2,1.4,0.5
+J,information and communication companies,2015K3,1.5,0.4
+J,information and communication companies,2015K4,2.6,0.7
+J,information and communication companies,2016K1,2.2,0.5
+J,information and communication companies,2016K2,2.3,0.7
+J,information and communication companies,2016K3,1.9,0.4
+J,information and communication companies,2016K4,2.5,0.6
+J,information and communication companies,2017K1,2.3,0.4
+J,information and communication companies,2017K2,1.7,0.3
+J,information and communication companies,2017K3,1.7,0.4
+J,information and communication companies,2017K4,2.5,0.6
+J,information and communication companies,2018K1,2.0,0.4
+J,information and communication companies,2018K2,2.6,0.6
+J,information and communication companies,2018K3,1.9,0.5
+J,information and communication companies,2018K4,2.5,0.7
+J,information and communication companies,2019K1,2.4,0.5
+J,information and communication companies,2019K2,2.7,0.8
+J,information and communication companies,2019K3,2.1,0.5
+J,information and communication companies,2019K4,2.7,0.7
+J,information and communication companies,2020K1,1.8,0.6
+J,information and communication companies,2020K2,1.8,0.5
+J,information and communication companies,2020K3,1.9,0.5
+J,information and communication companies,2020K4,2.0,0.8
+J,information and communication companies,2021K1,1.6,0.5
+J,information and communication companies,2021K2,1.7,0.7
+J,information and communication companies,2021K3,1.8,0.5
+J,information and communication companies,2021K4,3.4,1.0
+J,information and communication companies,2022K1,3.2,0.8
+J,information and communication companies,2022K2,2.2,0.5
+J,information and communication companies,2022K3,2.6,0.5
+J,information and communication companies,2022K4,2.6,0.6
+J,information and communication companies,2023K1,2.8,0.6
+J,information and communication companies,2023K2,2.6,0.7
+J,information and communication companies,2023K3,2.4,0.5
+J,information and communication companies,2023K4,2.8,0.7
+J,information and communication companies,2024K1,2.0,0.5
+K+L,"real estate, financial and insurance activities",2015K1,1.3,0.3
+K+L,"real estate, financial and insurance activities",2015K2,0.9,0.2
+K+L,"real estate, financial and insurance activities",2015K3,0.8,0.3
+K+L,"real estate, financial and insurance activities",2015K4,1.7,0.5
+K+L,"real estate, financial and insurance activities",2016K1,1.3,0.3
+K+L,"real estate, financial and insurance activities",2016K2,0.7,0.1
+K+L,"real estate, financial and insurance activities",2016K3,1.4,0.3
+K+L,"real estate, financial and insurance activities",2016K4,1.7,0.4
+K+L,"real estate, financial and insurance activities",2017K1,1.3,0.3
+K+L,"real estate, financial and insurance activities",2017K2,0.9,0.2
+K+L,"real estate, financial and insurance activities",2017K3,1.3,0.2
+K+L,"real estate, financial and insurance activities",2017K4,1.6,0.4
+K+L,"real estate, financial and insurance activities",2018K1,1.5,0.3
+K+L,"real estate, financial and insurance activities",2018K2,1.3,0.2
+K+L,"real estate, financial and insurance activities",2018K3,1.2,0.3
+K+L,"real estate, financial and insurance activities",2018K4,1.8,0.5
+K+L,"real estate, financial and insurance activities",2019K1,1.8,0.5
+K+L,"real estate, financial and insurance activities",2019K2,0.8,0.2
+K+L,"real estate, financial and insurance activities",2019K3,0.9,0.2
+K+L,"real estate, financial and insurance activities",2019K4,1.6,0.4
+K+L,"real estate, financial and insurance activities",2020K1,1.9,0.4
+K+L,"real estate, financial and insurance activities",2020K2,0.8,0.2
+K+L,"real estate, financial and insurance activities",2020K3,1.0,0.3
+K+L,"real estate, financial and insurance activities",2020K4,1.4,0.4
+K+L,"real estate, financial and insurance activities",2021K1,1.3,0.4
+K+L,"real estate, financial and insurance activities",2021K2,1.0,0.2
+K+L,"real estate, financial and insurance activities",2021K3,1.3,0.3
+K+L,"real estate, financial and insurance activities",2021K4,1.8,0.5
+K+L,"real estate, financial and insurance activities",2022K1,1.7,0.3
+K+L,"real estate, financial and insurance activities",2022K2,1.0,0.2
+K+L,"real estate, financial and insurance activities",2022K3,1.2,0.3
+K+L,"real estate, financial and insurance activities",2022K4,2.1,0.5
+K+L,"real estate, financial and insurance activities",2023K1,1.8,0.5
+K+L,"real estate, financial and insurance activities",2023K2,0.9,0.4
+K+L,"real estate, financial and insurance activities",2023K3,1.1,0.3
+K+L,"real estate, financial and insurance activities",2023K4,1.5,0.4
+K+L,"real estate, financial and insurance activities",2024K1,1.6,0.4
+M,"professional, scientific and technical companies",2015K1,1.2,0.4
+M,"professional, scientific and technical companies",2015K2,1.3,0.4
+M,"professional, scientific and technical companies",2015K3,1.2,0.4
+M,"professional, scientific and technical companies",2015K4,1.6,0.5
+M,"professional, scientific and technical companies",2016K1,1.7,0.4
+M,"professional, scientific and technical companies",2016K2,1.3,0.4
+M,"professional, scientific and technical companies",2016K3,1.2,0.2
+M,"professional, scientific and technical companies",2016K4,1.4,0.4
+M,"professional, scientific and technical companies",2017K1,1.6,0.4
+M,"professional, scientific and technical companies",2017K2,1.5,0.4
+M,"professional, scientific and technical companies",2017K3,1.4,0.3
+M,"professional, scientific and technical companies",2017K4,2.2,0.6
+M,"professional, scientific and technical companies",2018K1,2.1,0.4
+M,"professional, scientific and technical companies",2018K2,1.9,0.5
+M,"professional, scientific and technical companies",2018K3,1.9,0.4
+M,"professional, scientific and technical companies",2018K4,2.3,0.5
+M,"professional, scientific and technical companies",2019K1,1.7,0.4
+M,"professional, scientific and technical companies",2019K2,1.9,0.4
+M,"professional, scientific and technical companies",2019K3,1.9,0.4
+M,"professional, scientific and technical companies",2019K4,2.0,0.5
+M,"professional, scientific and technical companies",2020K1,1.6,0.3
+M,"professional, scientific and technical companies",2020K2,1.5,0.4
+M,"professional, scientific and technical companies",2020K3,1.3,0.4
+M,"professional, scientific and technical companies",2020K4,1.8,0.5
+M,"professional, scientific and technical companies",2021K1,1.7,0.3
+M,"professional, scientific and technical companies",2021K2,2.1,0.4
+M,"professional, scientific and technical companies",2021K3,1.5,0.3
+M,"professional, scientific and technical companies",2021K4,1.8,0.4
+M,"professional, scientific and technical companies",2022K1,2.1,0.4
+M,"professional, scientific and technical companies",2022K2,1.8,0.4
+M,"professional, scientific and technical companies",2022K3,2.2,0.4
+M,"professional, scientific and technical companies",2022K4,3.0,0.7
+M,"professional, scientific and technical companies",2023K1,2.0,0.6
+M,"professional, scientific and technical companies",2023K2,2.3,0.5
+M,"professional, scientific and technical companies",2023K3,2.0,0.4
+M,"professional, scientific and technical companies",2023K4,2.6,0.6
+M,"professional, scientific and technical companies",2024K1,2.2,0.5
+N,administrative and support service companies,2015K1,1.0,0.2
+N,administrative and support service companies,2015K2,0.7,0.2
+N,administrative and support service companies,2015K3,0.6,0.2
+N,administrative and support service companies,2015K4,0.8,0.2
+N,administrative and support service companies,2016K1,1.0,0.3
+N,administrative and support service companies,2016K2,0.7,0.2
+N,administrative and support service companies,2016K3,0.9,0.2
+N,administrative and support service companies,2016K4,0.7,0.3
+N,administrative and support service companies,2017K1,1.2,0.3
+N,administrative and support service companies,2017K2,0.7,0.2
+N,administrative and support service companies,2017K3,0.7,0.2
+N,administrative and support service companies,2017K4,1.1,0.3
+N,administrative and support service companies,2018K1,1.1,0.4
+N,administrative and support service companies,2018K2,0.8,0.2
+N,administrative and support service companies,2018K3,0.8,0.2
+N,administrative and support service companies,2018K4,0.6,0.2
+N,administrative and support service companies,2019K1,0.8,0.2
+N,administrative and support service companies,2019K2,0.6,0.1
+N,administrative and support service companies,2019K3,0.6,0.2
+N,administrative and support service companies,2019K4,0.7,0.2
+N,administrative and support service companies,2020K1,0.7,0.1
+N,administrative and support service companies,2020K2,0.5,0.1
+N,administrative and support service companies,2020K3,0.5,0.2
+N,administrative and support service companies,2020K4,0.5,0.1
+N,administrative and support service companies,2021K1,0.6,0.1
+N,administrative and support service companies,2021K2,0.6,0.1
+N,administrative and support service companies,2021K3,0.6,0.1
+N,administrative and support service companies,2021K4,0.7,0.3
+N,administrative and support service companies,2022K1,0.8,0.3
+N,administrative and support service companies,2022K2,1.0,0.2
+N,administrative and support service companies,2022K3,1.0,0.2
+N,administrative and support service companies,2022K4,1.0,0.2
+N,administrative and support service companies,2023K1,1.3,0.2
+N,administrative and support service companies,2023K2,0.9,0.2
+N,administrative and support service companies,2023K3,0.9,0.2
+N,administrative and support service companies,2023K4,1.0,0.2
+N,administrative and support service companies,2024K1,1.3,0.3
+P+Q,"education, human health and social work activities",2015K1,0.8,0.1
+P+Q,"education, human health and social work activities",2015K2,0.8,0.2
+P+Q,"education, human health and social work activities",2015K3,0.8,0.2
+P+Q,"education, human health and social work activities",2015K4,0.8,0.2
+P+Q,"education, human health and social work activities",2016K1,0.8,0.2
+P+Q,"education, human health and social work activities",2016K2,0.9,0.3
+P+Q,"education, human health and social work activities",2016K3,0.5,0.2
+P+Q,"education, human health and social work activities",2016K4,0.8,0.2
+P+Q,"education, human health and social work activities",2017K1,0.7,0.1
+P+Q,"education, human health and social work activities",2017K2,0.7,0.2
+P+Q,"education, human health and social work activities",2017K3,0.7,0.2
+P+Q,"education, human health and social work activities",2017K4,0.7,0.2
+P+Q,"education, human health and social work activities",2018K1,0.8,0.2
+P+Q,"education, human health and social work activities",2018K2,0.8,0.2
+P+Q,"education, human health and social work activities",2018K3,0.6,0.2
+P+Q,"education, human health and social work activities",2018K4,0.8,0.2
+P+Q,"education, human health and social work activities",2019K1,0.8,0.2
+P+Q,"education, human health and social work activities",2019K2,0.9,0.2
+P+Q,"education, human health and social work activities",2019K3,0.5,0.1
+P+Q,"education, human health and social work activities",2019K4,0.7,0.2
+P+Q,"education, human health and social work activities",2020K1,0.7,0.2
+P+Q,"education, human health and social work activities",2020K2,0.6,0.1
+P+Q,"education, human health and social work activities",2020K3,0.5,0.1
+P+Q,"education, human health and social work activities",2020K4,0.8,0.2
+P+Q,"education, human health and social work activities",2021K1,0.7,0.2
+P+Q,"education, human health and social work activities",2021K2,0.6,0.1
+P+Q,"education, human health and social work activities",2021K3,0.7,0.2
+P+Q,"education, human health and social work activities",2021K4,0.7,0.2
+P+Q,"education, human health and social work activities",2022K1,0.9,0.2
+P+Q,"education, human health and social work activities",2022K2,0.9,0.3
+P+Q,"education, human health and social work activities",2022K3,0.7,0.1
+P+Q,"education, human health and social work activities",2022K4,0.9,0.3
+P+Q,"education, human health and social work activities",2023K1,0.8,0.2
+P+Q,"education, human health and social work activities",2023K2,1.1,0.2
+P+Q,"education, human health and social work activities",2023K3,0.6,0.1
+P+Q,"education, human health and social work activities",2023K4,0.8,0.2
+P+Q,"education, human health and social work activities",2024K1,0.8,0.2
+R+S,"art, entertainment, recreation and other service activities",2015K1,1.3,0.5
+R+S,"art, entertainment, recreation and other service activities",2015K2,0.8,0.2
+R+S,"art, entertainment, recreation and other service activities",2015K3,0.9,0.3
+R+S,"art, entertainment, recreation and other service activities",2015K4,0.5,0.2
+R+S,"art, entertainment, recreation and other service activities",2016K1,1.7,0.8
+R+S,"art, entertainment, recreation and other service activities",2016K2,0.7,0.3
+R+S,"art, entertainment, recreation and other service activities",2016K3,0.8,0.5
+R+S,"art, entertainment, recreation and other service activities",2016K4,0.4,0.2
+R+S,"art, entertainment, recreation and other service activities",2017K1,1.2,0.3
+R+S,"art, entertainment, recreation and other service activities",2017K2,0.5,0.2
+R+S,"art, entertainment, recreation and other service activities",2017K3,1.4,0.8
+R+S,"art, entertainment, recreation and other service activities",2017K4,0.5,0.1
+R+S,"art, entertainment, recreation and other service activities",2018K1,1.5,0.6
+R+S,"art, entertainment, recreation and other service activities",2018K2,0.3,0.1
+R+S,"art, entertainment, recreation and other service activities",2018K3,1.2,0.4
+R+S,"art, entertainment, recreation and other service activities",2018K4,0.8,0.2
+R+S,"art, entertainment, recreation and other service activities",2019K1,1.2,0.5
+R+S,"art, entertainment, recreation and other service activities",2019K2,0.3,0.1
+R+S,"art, entertainment, recreation and other service activities",2019K3,0.7,0.3
+R+S,"art, entertainment, recreation and other service activities",2019K4,0.5,0.2
+R+S,"art, entertainment, recreation and other service activities",2020K1,1.5,0.6
+R+S,"art, entertainment, recreation and other service activities",2020K2,0.4,0.2
+R+S,"art, entertainment, recreation and other service activities",2020K3,0.6,0.4
+R+S,"art, entertainment, recreation and other service activities",2020K4,0.4,0.2
+R+S,"art, entertainment, recreation and other service activities",2021K1,1.1,0.5
+R+S,"art, entertainment, recreation and other service activities",2021K2,0.5,0.2
+R+S,"art, entertainment, recreation and other service activities",2021K3,0.6,0.2
+R+S,"art, entertainment, recreation and other service activities",2021K4,0.4,0.1
+R+S,"art, entertainment, recreation and other service activities",2022K1,1.1,0.3
+R+S,"art, entertainment, recreation and other service activities",2022K2,0.5,0.2
+R+S,"art, entertainment, recreation and other service activities",2022K3,0.8,0.3
+R+S,"art, entertainment, recreation and other service activities",2022K4,0.4,0.1
+R+S,"art, entertainment, recreation and other service activities",2023K1,1.4,0.4
+R+S,"art, entertainment, recreation and other service activities",2023K2,0.4,0.1
+R+S,"art, entertainment, recreation and other service activities",2023K3,0.7,0.2
+R+S,"art, entertainment, recreation and other service activities",2023K4,0.3,0.1
+R+S,"art, entertainment, recreation and other service activities",2024K1,0.9,0.3
