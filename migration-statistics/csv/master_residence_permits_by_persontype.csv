@@ -1,0 +1,633 @@
+year,permit_basis_sv,permit_basis_en,sub_category_sv,sub_category_en,person_type_sv,person_type_en,granted_count
+2022,Anknytning*,Family ties,Adoption,Adoption,Vuxen,Adult,1
+2022,Anknytning*,Family ties,Adoption,Adoption,Barn i familj,Child in family,24
+2022,Anknytning*,Family ties,Adoption,Adoption,Ensamkommande barn,Unaccompanied minor,0
+2022,Anknytning*,Family ties,Adoption,Adoption,Totalt,Total,25
+2022,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Vuxen,Adult,1332
+2022,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Barn i familj,Child in family,1271
+2022,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Ensamkommande barn,Unaccompanied minor,1
+2022,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Totalt,Total,2604
+2022,Anknytning*,Family ties,Anhörig till övriga,Family of other,Vuxen,Adult,11102
+2022,Anknytning*,Family ties,Anhörig till övriga,Family of other,Barn i familj,Child in family,7053
+2022,Anknytning*,Family ties,Anhörig till övriga,Family of other,Ensamkommande barn,Unaccompanied minor,3
+2022,Anknytning*,Family ties,Anhörig till övriga,Family of other,Totalt,Total,18158
+2022,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Vuxen,Adult,24
+2022,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Barn i familj,Child in family,179
+2022,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Ensamkommande barn,Unaccompanied minor,0
+2022,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Totalt,Total,203
+2022,Anknytning*,Family ties,Totalt,Total,Vuxen,Adult,12459
+2022,Anknytning*,Family ties,Totalt,Total,Barn i familj,Child in family,8527
+2022,Anknytning*,Family ties,Totalt,Total,Ensamkommande barn,Unaccompanied minor,4
+2022,Anknytning*,Family ties,Totalt,Total,Totalt,Total,20990
+2022,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Vuxen,Adult,7097
+2022,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Barn i familj,Child in family,7013
+2022,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Ensamkommande barn,Unaccompanied minor,7
+2022,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Totalt,Total,14117
+2022,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Vuxen,Adult,24110
+2022,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Barn i familj,Child in family,7
+2022,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Totalt,Total,24117
+2022,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Vuxen,Adult,160
+2022,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Barn i familj,Child in family,0
+2022,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Totalt,Total,160
+2022,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Vuxen,Adult,1121
+2022,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Barn i familj,Child in family,0
+2022,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Totalt,Total,1121
+2022,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Vuxen,Adult,1297
+2022,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Barn i familj,Child in family,1
+2022,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Totalt,Total,1298
+2022,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Vuxen,Adult,520
+2022,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Barn i familj,Child in family,0
+2022,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Totalt,Total,520
+2022,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Vuxen,Adult,48
+2022,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Barn i familj,Child in family,0
+2022,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Totalt,Total,48
+2022,Arbetsmarknad,Labour market,Volontär,Volunteer,Vuxen,Adult,15
+2022,Arbetsmarknad,Labour market,Volontär,Volunteer,Barn i familj,Child in family,0
+2022,Arbetsmarknad,Labour market,Volontär,Volunteer,Ensamkommande barn,Unaccompanied minor,0
+2022,Arbetsmarknad,Labour market,Volontär,Volunteer,Totalt,Total,15
+2022,Arbetsmarknad,Labour market,Totalt,Total,Vuxen,Adult,34368
+2022,Arbetsmarknad,Labour market,Totalt,Total,Barn i familj,Child in family,7021
+2022,Arbetsmarknad,Labour market,Totalt,Total,Ensamkommande barn,Unaccompanied minor,7
+2022,Arbetsmarknad,Labour market,Totalt,Total,Totalt,Total,41396
+2022,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Vuxen,Adult,1285
+2022,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Barn i familj,Child in family,1971
+2022,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Ensamkommande barn,Unaccompanied minor,1
+2022,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Totalt,Total,3257
+2022,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Vuxen,Adult,1990
+2022,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Barn i familj,Child in family,437
+2022,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Ensamkommande barn,Unaccompanied minor,0
+2022,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Totalt,Total,2427
+2022,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Vuxen,Adult,421
+2022,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Barn i familj,Child in family,45
+2022,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Ensamkommande barn,Unaccompanied minor,0
+2022,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Totalt,Total,466
+2022,EU/EES,EU/EEA,Uppehållsrätt/Uppehållstillstånd för EES-medborgare,Right of residence – EEA citizen,Vuxen,Adult,0
+2022,EU/EES,EU/EEA,Uppehållsrätt/Uppehållstillstånd för EES-medborgare,Right of residence – EEA citizen,Barn i familj,Child in family,1
+2022,EU/EES,EU/EEA,Uppehållsrätt/Uppehållstillstånd för EES-medborgare,Right of residence – EEA citizen,Ensamkommande barn,Unaccompanied minor,0
+2022,EU/EES,EU/EEA,Uppehållsrätt/Uppehållstillstånd för EES-medborgare,Right of residence – EEA citizen,Totalt,Total,1
+2022,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Vuxen,Adult,1726
+2022,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Barn i familj,Child in family,6
+2022,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Ensamkommande barn,Unaccompanied minor,0
+2022,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Totalt,Total,1732
+2022,EU/EES,EU/EEA,Totalt,Total,Vuxen,Adult,5422
+2022,EU/EES,EU/EEA,Totalt,Total,Barn i familj,Child in family,2460
+2022,EU/EES,EU/EEA,Totalt,Total,Ensamkommande barn,Unaccompanied minor,1
+2022,EU/EES,EU/EEA,Totalt,Total,Totalt,Total,7883
+2022,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Vuxen,Adult,534
+2022,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Barn i familj,Child in family,243
+2022,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Ensamkommande barn,Unaccompanied minor,119
+2022,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Totalt,Total,896
+2022,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Vuxen,Adult,2466
+2022,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Barn i familj,Child in family,895
+2022,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Ensamkommande barn,Unaccompanied minor,108
+2022,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Totalt,Total,3469
+2022,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Vuxen,Adult,31937
+2022,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Barn i familj,Child in family,14839
+2022,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Ensamkommande barn,Unaccompanied minor,790
+2022,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Totalt,Total,47566
+2022,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Vuxen,Adult,399
+2022,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Barn i familj,Child in family,403
+2022,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Ensamkommande barn,Unaccompanied minor,17
+2022,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Totalt,Total,819
+2022,Skydd,Protection (asylum),Tillfällig/tidsbegränsad,Temporary,Vuxen,Adult,91
+2022,Skydd,Protection (asylum),Tillfällig/tidsbegränsad,Temporary,Barn i familj,Child in family,8
+2022,Skydd,Protection (asylum),Tillfällig/tidsbegränsad,Temporary,Ensamkommande barn,Unaccompanied minor,1
+2022,Skydd,Protection (asylum),Tillfällig/tidsbegränsad,Temporary,Totalt,Total,100
+2022,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Vuxen,Adult,1814
+2022,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Barn i familj,Child in family,1845
+2022,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Ensamkommande barn,Unaccompanied minor,85
+2022,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Totalt,Total,3744
+2022,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Vuxen,Adult,24
+2022,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Barn i familj,Child in family,3
+2022,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Ensamkommande barn,Unaccompanied minor,1
+2022,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Totalt,Total,28
+2022,Skydd,Protection (asylum),Totalt,Total,Vuxen,Adult,37265
+2022,Skydd,Protection (asylum),Totalt,Total,Barn i familj,Child in family,18236
+2022,Skydd,Protection (asylum),Totalt,Total,Ensamkommande barn,Unaccompanied minor,1121
+2022,Skydd,Protection (asylum),Totalt,Total,Totalt,Total,56622
+2022,Studier,Studies,Anhörig till studerande,Family of student,Vuxen,Adult,2076
+2022,Studier,Studies,Anhörig till studerande,Family of student,Barn i familj,Child in family,1703
+2022,Studier,Studies,Anhörig till studerande,Family of student,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Anhörig till studerande,Family of student,Totalt,Total,3779
+2022,Studier,Studies,Arbetssökande student,Job-seeking student,Vuxen,Adult,863
+2022,Studier,Studies,Arbetssökande student,Job-seeking student,Barn i familj,Child in family,0
+2022,Studier,Studies,Arbetssökande student,Job-seeking student,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Arbetssökande student,Job-seeking student,Totalt,Total,863
+2022,Studier,Studies,Doktorand,Doctoral student,Vuxen,Adult,746
+2022,Studier,Studies,Doktorand,Doctoral student,Barn i familj,Child in family,0
+2022,Studier,Studies,Doktorand,Doctoral student,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Doktorand,Doctoral student,Totalt,Total,746
+2022,Studier,Studies,Högre utbildning,Higher education,Vuxen,Adult,8321
+2022,Studier,Studies,Högre utbildning,Higher education,Barn i familj,Child in family,12
+2022,Studier,Studies,Högre utbildning,Higher education,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Högre utbildning,Higher education,Totalt,Total,8333
+2022,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Vuxen,Adult,32
+2022,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Barn i familj,Child in family,0
+2022,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Totalt,Total,32
+2022,Studier,Studies,Studerande övriga studier,Student – other studies,Vuxen,Adult,136
+2022,Studier,Studies,Studerande övriga studier,Student – other studies,Barn i familj,Child in family,78
+2022,Studier,Studies,Studerande övriga studier,Student – other studies,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Studerande övriga studier,Student – other studies,Totalt,Total,214
+2022,Studier,Studies,Studier mobilitet,Student mobility,Vuxen,Adult,570
+2022,Studier,Studies,Studier mobilitet,Student mobility,Barn i familj,Child in family,0
+2022,Studier,Studies,Studier mobilitet,Student mobility,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Studier mobilitet,Student mobility,Totalt,Total,570
+2022,Studier,Studies,Totalt,Total,Vuxen,Adult,12744
+2022,Studier,Studies,Totalt,Total,Barn i familj,Child in family,1793
+2022,Studier,Studies,Totalt,Total,Ensamkommande barn,Unaccompanied minor,0
+2022,Studier,Studies,Totalt,Total,Totalt,Total,14537
+2022,Verkställighetshinder,Impediments to enforcement,Medicinska hinder,Medical impediments,Vuxen,Adult,6
+2022,Verkställighetshinder,Impediments to enforcement,Medicinska hinder,Medical impediments,Barn i familj,Child in family,0
+2022,Verkställighetshinder,Impediments to enforcement,Medicinska hinder,Medical impediments,Ensamkommande barn,Unaccompanied minor,0
+2022,Verkställighetshinder,Impediments to enforcement,Medicinska hinder,Medical impediments,Totalt,Total,6
+2022,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Vuxen,Adult,6
+2022,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Barn i familj,Child in family,0
+2022,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Ensamkommande barn,Unaccompanied minor,0
+2022,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Totalt,Total,6
+2022,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Vuxen,Adult,502
+2022,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Barn i familj,Child in family,231
+2022,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Ensamkommande barn,Unaccompanied minor,6
+2022,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Totalt,Total,739
+2022,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Vuxen,Adult,514
+2022,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Barn i familj,Child in family,231
+2022,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Ensamkommande barn,Unaccompanied minor,6
+2022,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Totalt,Total,751
+2023,Anknytning*,Family ties,Adoption,Adoption,Vuxen,Adult,0
+2023,Anknytning*,Family ties,Adoption,Adoption,Barn i familj,Child in family,9
+2023,Anknytning*,Family ties,Adoption,Adoption,Ensamkommande barn,Unaccompanied minor,0
+2023,Anknytning*,Family ties,Adoption,Adoption,Totalt,Total,9
+2023,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Vuxen,Adult,1070
+2023,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Barn i familj,Child in family,1044
+2023,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Ensamkommande barn,Unaccompanied minor,0
+2023,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Totalt,Total,2114
+2023,Anknytning*,Family ties,Anhörig till övriga,Family of other,Vuxen,Adult,12810
+2023,Anknytning*,Family ties,Anhörig till övriga,Family of other,Barn i familj,Child in family,9940
+2023,Anknytning*,Family ties,Anhörig till övriga,Family of other,Ensamkommande barn,Unaccompanied minor,9
+2023,Anknytning*,Family ties,Anhörig till övriga,Family of other,Totalt,Total,22759
+2023,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Vuxen,Adult,31
+2023,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Barn i familj,Child in family,197
+2023,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Ensamkommande barn,Unaccompanied minor,0
+2023,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Totalt,Total,228
+2023,Anknytning*,Family ties,Totalt,Total,Vuxen,Adult,13911
+2023,Anknytning*,Family ties,Totalt,Total,Barn i familj,Child in family,11190
+2023,Anknytning*,Family ties,Totalt,Total,Ensamkommande barn,Unaccompanied minor,9
+2023,Anknytning*,Family ties,Totalt,Total,Totalt,Total,25110
+2023,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Vuxen,Adult,6100
+2023,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Barn i familj,Child in family,6308
+2023,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Ensamkommande barn,Unaccompanied minor,4
+2023,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Totalt,Total,12412
+2023,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Vuxen,Adult,20822
+2023,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Barn i familj,Child in family,1
+2023,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Totalt,Total,20823
+2023,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Vuxen,Adult,140
+2023,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Barn i familj,Child in family,1
+2023,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Totalt,Total,141
+2023,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Vuxen,Adult,1325
+2023,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Barn i familj,Child in family,0
+2023,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Totalt,Total,1325
+2023,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Vuxen,Adult,1119
+2023,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Barn i familj,Child in family,0
+2023,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Totalt,Total,1119
+2023,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Vuxen,Adult,501
+2023,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Barn i familj,Child in family,0
+2023,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Totalt,Total,501
+2023,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Vuxen,Adult,183
+2023,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Barn i familj,Child in family,0
+2023,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Totalt,Total,183
+2023,Arbetsmarknad,Labour market,Volontär,Volunteer,Vuxen,Adult,10
+2023,Arbetsmarknad,Labour market,Volontär,Volunteer,Barn i familj,Child in family,0
+2023,Arbetsmarknad,Labour market,Volontär,Volunteer,Ensamkommande barn,Unaccompanied minor,0
+2023,Arbetsmarknad,Labour market,Volontär,Volunteer,Totalt,Total,10
+2023,Arbetsmarknad,Labour market,Totalt,Total,Vuxen,Adult,30200
+2023,Arbetsmarknad,Labour market,Totalt,Total,Barn i familj,Child in family,6310
+2023,Arbetsmarknad,Labour market,Totalt,Total,Ensamkommande barn,Unaccompanied minor,4
+2023,Arbetsmarknad,Labour market,Totalt,Total,Totalt,Total,36514
+2023,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Vuxen,Adult,1000
+2023,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Barn i familj,Child in family,1547
+2023,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Ensamkommande barn,Unaccompanied minor,3
+2023,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Totalt,Total,2550
+2023,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Vuxen,Adult,1831
+2023,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Barn i familj,Child in family,396
+2023,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Ensamkommande barn,Unaccompanied minor,0
+2023,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Totalt,Total,2227
+2023,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Vuxen,Adult,369
+2023,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Barn i familj,Child in family,45
+2023,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Ensamkommande barn,Unaccompanied minor,0
+2023,EU/EES,EU/EEA,Medborgare i Schweiz,Swiss citizen,Totalt,Total,414
+2023,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Vuxen,Adult,1534
+2023,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Barn i familj,Child in family,6
+2023,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Ensamkommande barn,Unaccompanied minor,0
+2023,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Totalt,Total,1540
+2023,EU/EES,EU/EEA,Totalt,Total,Vuxen,Adult,4734
+2023,EU/EES,EU/EEA,Totalt,Total,Barn i familj,Child in family,1994
+2023,EU/EES,EU/EEA,Totalt,Total,Ensamkommande barn,Unaccompanied minor,3
+2023,EU/EES,EU/EEA,Totalt,Total,Totalt,Total,6731
+2023,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Vuxen,Adult,484
+2023,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Barn i familj,Child in family,277
+2023,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Ensamkommande barn,Unaccompanied minor,119
+2023,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Totalt,Total,880
+2023,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Vuxen,Adult,2613
+2023,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Barn i familj,Child in family,819
+2023,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Ensamkommande barn,Unaccompanied minor,116
+2023,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Totalt,Total,3548
+2023,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Vuxen,Adult,8808
+2023,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Barn i familj,Child in family,2043
+2023,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Ensamkommande barn,Unaccompanied minor,149
+2023,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Totalt,Total,11000
+2023,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Vuxen,Adult,535
+2023,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Barn i familj,Child in family,491
+2023,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Ensamkommande barn,Unaccompanied minor,21
+2023,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Totalt,Total,1047
+2023,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Vuxen,Adult,129
+2023,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Barn i familj,Child in family,168
+2023,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Ensamkommande barn,Unaccompanied minor,0
+2023,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Totalt,Total,297
+2023,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Vuxen,Adult,36
+2023,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Barn i familj,Child in family,1
+2023,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Ensamkommande barn,Unaccompanied minor,1
+2023,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Totalt,Total,38
+2023,Skydd,Protection (asylum),Totalt,Total,Vuxen,Adult,12605
+2023,Skydd,Protection (asylum),Totalt,Total,Barn i familj,Child in family,3799
+2023,Skydd,Protection (asylum),Totalt,Total,Ensamkommande barn,Unaccompanied minor,406
+2023,Skydd,Protection (asylum),Totalt,Total,Totalt,Total,16810
+2023,Studier,Studies,Anhörig till studerande,Family of student,Vuxen,Adult,2247
+2023,Studier,Studies,Anhörig till studerande,Family of student,Barn i familj,Child in family,1783
+2023,Studier,Studies,Anhörig till studerande,Family of student,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Anhörig till studerande,Family of student,Totalt,Total,4030
+2023,Studier,Studies,Arbetssökande student,Job-seeking student,Vuxen,Adult,1318
+2023,Studier,Studies,Arbetssökande student,Job-seeking student,Barn i familj,Child in family,0
+2023,Studier,Studies,Arbetssökande student,Job-seeking student,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Arbetssökande student,Job-seeking student,Totalt,Total,1318
+2023,Studier,Studies,Doktorand,Doctoral student,Vuxen,Adult,891
+2023,Studier,Studies,Doktorand,Doctoral student,Barn i familj,Child in family,0
+2023,Studier,Studies,Doktorand,Doctoral student,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Doktorand,Doctoral student,Totalt,Total,891
+2023,Studier,Studies,Högre utbildning,Higher education,Vuxen,Adult,8885
+2023,Studier,Studies,Högre utbildning,Higher education,Barn i familj,Child in family,17
+2023,Studier,Studies,Högre utbildning,Higher education,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Högre utbildning,Higher education,Totalt,Total,8902
+2023,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Vuxen,Adult,54
+2023,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Barn i familj,Child in family,0
+2023,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Specialiserings- eller uppdragsutbildning,Specialisation or contract training,Totalt,Total,54
+2023,Studier,Studies,Studerande övriga studier,Student – other studies,Vuxen,Adult,131
+2023,Studier,Studies,Studerande övriga studier,Student – other studies,Barn i familj,Child in family,77
+2023,Studier,Studies,Studerande övriga studier,Student – other studies,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Studerande övriga studier,Student – other studies,Totalt,Total,208
+2023,Studier,Studies,Studier mobilitet,Student mobility,Vuxen,Adult,422
+2023,Studier,Studies,Studier mobilitet,Student mobility,Barn i familj,Child in family,0
+2023,Studier,Studies,Studier mobilitet,Student mobility,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Studier mobilitet,Student mobility,Totalt,Total,422
+2023,Studier,Studies,Totalt,Total,Vuxen,Adult,13948
+2023,Studier,Studies,Totalt,Total,Barn i familj,Child in family,1877
+2023,Studier,Studies,Totalt,Total,Ensamkommande barn,Unaccompanied minor,0
+2023,Studier,Studies,Totalt,Total,Totalt,Total,15825
+2023,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Vuxen,Adult,4
+2023,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Barn i familj,Child in family,0
+2023,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Ensamkommande barn,Unaccompanied minor,0
+2023,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Totalt,Total,4
+2023,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Vuxen,Adult,11
+2023,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Barn i familj,Child in family,0
+2023,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Ensamkommande barn,Unaccompanied minor,0
+2023,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Totalt,Total,11
+2023,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Vuxen,Adult,98
+2023,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Barn i familj,Child in family,0
+2023,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Ensamkommande barn,Unaccompanied minor,0
+2023,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Totalt,Total,98
+2023,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Vuxen,Adult,712
+2023,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Barn i familj,Child in family,313
+2023,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Ensamkommande barn,Unaccompanied minor,11
+2023,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Totalt,Total,1036
+2023,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Vuxen,Adult,825
+2023,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Barn i familj,Child in family,313
+2023,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Ensamkommande barn,Unaccompanied minor,11
+2023,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Totalt,Total,1149
+2024,Anknytning*,Family ties,Adoption,Adoption,Vuxen,Adult,0
+2024,Anknytning*,Family ties,Adoption,Adoption,Barn i familj,Child in family,13
+2024,Anknytning*,Family ties,Adoption,Adoption,Ensamkommande barn,Unaccompanied minor,0
+2024,Anknytning*,Family ties,Adoption,Adoption,Totalt,Total,13
+2024,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Vuxen,Adult,1015
+2024,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Barn i familj,Child in family,1905
+2024,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Ensamkommande barn,Unaccompanied minor,0
+2024,Anknytning*,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Totalt,Total,2920
+2024,Anknytning*,Family ties,Anhörig till övriga,Family of other,Vuxen,Adult,13093
+2024,Anknytning*,Family ties,Anhörig till övriga,Family of other,Barn i familj,Child in family,8163
+2024,Anknytning*,Family ties,Anhörig till övriga,Family of other,Ensamkommande barn,Unaccompanied minor,4
+2024,Anknytning*,Family ties,Anhörig till övriga,Family of other,Totalt,Total,21260
+2024,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Vuxen,Adult,62
+2024,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Barn i familj,Child in family,249
+2024,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Ensamkommande barn,Unaccompanied minor,0
+2024,Anknytning*,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Totalt,Total,311
+2024,Anknytning*,Family ties,Totalt,Total,Vuxen,Adult,14170
+2024,Anknytning*,Family ties,Totalt,Total,Barn i familj,Child in family,10330
+2024,Anknytning*,Family ties,Totalt,Total,Ensamkommande barn,Unaccompanied minor,4
+2024,Anknytning*,Family ties,Totalt,Total,Totalt,Total,24504
+2024,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Vuxen,Adult,4939
+2024,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Barn i familj,Child in family,5067
+2024,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Ensamkommande barn,Unaccompanied minor,1
+2024,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Totalt,Total,10007
+2024,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Vuxen,Adult,13423
+2024,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Barn i familj,Child in family,4
+2024,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Totalt,Total,13427
+2024,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Vuxen,Adult,105
+2024,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Barn i familj,Child in family,2
+2024,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Totalt,Total,107
+2024,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Vuxen,Adult,1451
+2024,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Barn i familj,Child in family,0
+2024,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Totalt,Total,1451
+2024,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Vuxen,Adult,1337
+2024,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Barn i familj,Child in family,0
+2024,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Totalt,Total,1337
+2024,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Vuxen,Adult,415
+2024,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Barn i familj,Child in family,0
+2024,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Totalt,Total,415
+2024,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Vuxen,Adult,253
+2024,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Barn i familj,Child in family,0
+2024,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Totalt,Total,253
+2024,Arbetsmarknad,Labour market,Volontär,Volunteer,Vuxen,Adult,12
+2024,Arbetsmarknad,Labour market,Volontär,Volunteer,Barn i familj,Child in family,0
+2024,Arbetsmarknad,Labour market,Volontär,Volunteer,Ensamkommande barn,Unaccompanied minor,0
+2024,Arbetsmarknad,Labour market,Volontär,Volunteer,Totalt,Total,12
+2024,Arbetsmarknad,Labour market,Totalt,Total,Vuxen,Adult,21935
+2024,Arbetsmarknad,Labour market,Totalt,Total,Barn i familj,Child in family,5073
+2024,Arbetsmarknad,Labour market,Totalt,Total,Ensamkommande barn,Unaccompanied minor,1
+2024,Arbetsmarknad,Labour market,Totalt,Total,Totalt,Total,27009
+2024,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Vuxen,Adult,1167
+2024,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Barn i familj,Child in family,1769
+2024,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Ensamkommande barn,Unaccompanied minor,0
+2024,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Totalt,Total,2936
+2024,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Vuxen,Adult,2133
+2024,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Barn i familj,Child in family,377
+2024,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Ensamkommande barn,Unaccompanied minor,0
+2024,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Totalt,Total,2510
+2024,EU/EES,EU/EEA,Schweiz,Switzerland,Vuxen,Adult,513
+2024,EU/EES,EU/EEA,Schweiz,Switzerland,Barn i familj,Child in family,91
+2024,EU/EES,EU/EEA,Schweiz,Switzerland,Ensamkommande barn,Unaccompanied minor,0
+2024,EU/EES,EU/EEA,Schweiz,Switzerland,Totalt,Total,604
+2024,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Vuxen,Adult,1566
+2024,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Barn i familj,Child in family,3
+2024,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Ensamkommande barn,Unaccompanied minor,0
+2024,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Totalt,Total,1569
+2024,EU/EES,EU/EEA,Totalt,Total,Vuxen,Adult,5379
+2024,EU/EES,EU/EEA,Totalt,Total,Barn i familj,Child in family,2240
+2024,EU/EES,EU/EEA,Totalt,Total,Ensamkommande barn,Unaccompanied minor,0
+2024,EU/EES,EU/EEA,Totalt,Total,Totalt,Total,7619
+2024,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Vuxen,Adult,580
+2024,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Barn i familj,Child in family,286
+2024,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Ensamkommande barn,Unaccompanied minor,48
+2024,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Totalt,Total,914
+2024,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Vuxen,Adult,1526
+2024,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Barn i familj,Child in family,391
+2024,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Ensamkommande barn,Unaccompanied minor,44
+2024,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Totalt,Total,1961
+2024,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Vuxen,Adult,8480
+2024,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Barn i familj,Child in family,2346
+2024,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Ensamkommande barn,Unaccompanied minor,212
+2024,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Totalt,Total,11038
+2024,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Vuxen,Adult,293
+2024,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Barn i familj,Child in family,279
+2024,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Ensamkommande barn,Unaccompanied minor,4
+2024,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Totalt,Total,576
+2024,Skydd,Protection (asylum),UAT pga Sveriges inter. åtaganden (5 KAP 4 UTLL),Permit under international obligations,Vuxen,Adult,6
+2024,Skydd,Protection (asylum),UAT pga Sveriges inter. åtaganden (5 KAP 4 UTLL),Permit under international obligations,Barn i familj,Child in family,0
+2024,Skydd,Protection (asylum),UAT pga Sveriges inter. åtaganden (5 KAP 4 UTLL),Permit under international obligations,Ensamkommande barn,Unaccompanied minor,0
+2024,Skydd,Protection (asylum),UAT pga Sveriges inter. åtaganden (5 KAP 4 UTLL),Permit under international obligations,Totalt,Total,6
+2024,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Vuxen,Adult,383
+2024,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Barn i familj,Child in family,570
+2024,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Ensamkommande barn,Unaccompanied minor,6
+2024,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Totalt,Total,959
+2024,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Vuxen,Adult,67
+2024,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Barn i familj,Child in family,5
+2024,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Ensamkommande barn,Unaccompanied minor,0
+2024,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Totalt,Total,72
+2024,Skydd,Protection (asylum),Totalt,Total,Vuxen,Adult,11335
+2024,Skydd,Protection (asylum),Totalt,Total,Barn i familj,Child in family,3877
+2024,Skydd,Protection (asylum),Totalt,Total,Ensamkommande barn,Unaccompanied minor,314
+2024,Skydd,Protection (asylum),Totalt,Total,Totalt,Total,15526
+2024,Studier,Studies,Anhörig till studerande,Family of student,Vuxen,Adult,2823
+2024,Studier,Studies,Anhörig till studerande,Family of student,Barn i familj,Child in family,1983
+2024,Studier,Studies,Anhörig till studerande,Family of student,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Anhörig till studerande,Family of student,Totalt,Total,4806
+2024,Studier,Studies,Arbetssökande student,Job-seeking student,Vuxen,Adult,1615
+2024,Studier,Studies,Arbetssökande student,Job-seeking student,Barn i familj,Child in family,3
+2024,Studier,Studies,Arbetssökande student,Job-seeking student,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Arbetssökande student,Job-seeking student,Totalt,Total,1618
+2024,Studier,Studies,Doktorand,Doctoral student,Vuxen,Adult,934
+2024,Studier,Studies,Doktorand,Doctoral student,Barn i familj,Child in family,0
+2024,Studier,Studies,Doktorand,Doctoral student,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Doktorand,Doctoral student,Totalt,Total,934
+2024,Studier,Studies,Högre utbildning,Higher education,Vuxen,Adult,10503
+2024,Studier,Studies,Högre utbildning,Higher education,Barn i familj,Child in family,33
+2024,Studier,Studies,Högre utbildning,Higher education,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Högre utbildning,Higher education,Totalt,Total,10536
+2024,Studier,Studies,Studerande övriga studier,Student – other studies,Vuxen,Adult,97
+2024,Studier,Studies,Studerande övriga studier,Student – other studies,Barn i familj,Child in family,85
+2024,Studier,Studies,Studerande övriga studier,Student – other studies,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Studerande övriga studier,Student – other studies,Totalt,Total,182
+2024,Studier,Studies,Studier mobilitet,Student mobility,Vuxen,Adult,369
+2024,Studier,Studies,Studier mobilitet,Student mobility,Barn i familj,Child in family,0
+2024,Studier,Studies,Studier mobilitet,Student mobility,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Studier mobilitet,Student mobility,Totalt,Total,369
+2024,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Vuxen,Adult,8
+2024,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Barn i familj,Child in family,0
+2024,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Totalt,Total,8
+2024,Studier,Studies,Totalt,Total,Vuxen,Adult,16349
+2024,Studier,Studies,Totalt,Total,Barn i familj,Child in family,2104
+2024,Studier,Studies,Totalt,Total,Ensamkommande barn,Unaccompanied minor,0
+2024,Studier,Studies,Totalt,Total,Totalt,Total,18453
+2024,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Vuxen,Adult,4
+2024,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Barn i familj,Child in family,0
+2024,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Ensamkommande barn,Unaccompanied minor,0
+2024,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Totalt,Total,4
+2024,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Vuxen,Adult,5
+2024,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Barn i familj,Child in family,3
+2024,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Ensamkommande barn,Unaccompanied minor,0
+2024,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Totalt,Total,8
+2024,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Vuxen,Adult,73
+2024,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Barn i familj,Child in family,2
+2024,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Ensamkommande barn,Unaccompanied minor,0
+2024,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Totalt,Total,75
+2024,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Vuxen,Adult,514
+2024,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Barn i familj,Child in family,175
+2024,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Ensamkommande barn,Unaccompanied minor,8
+2024,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Totalt,Total,697
+2024,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Vuxen,Adult,596
+2024,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Barn i familj,Child in family,180
+2024,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Ensamkommande barn,Unaccompanied minor,8
+2024,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Totalt,Total,784
+2025,Anknytning,Family ties,Adoption,Adoption,Vuxen,Adult,0
+2025,Anknytning,Family ties,Adoption,Adoption,Barn i familj,Child in family,10
+2025,Anknytning,Family ties,Adoption,Adoption,Ensamkommande barn,Unaccompanied minor,0
+2025,Anknytning,Family ties,Adoption,Adoption,Totalt,Total,10
+2025,Anknytning,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Vuxen,Adult,661
+2025,Anknytning,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Barn i familj,Child in family,1617
+2025,Anknytning,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Ensamkommande barn,Unaccompanied minor,0
+2025,Anknytning,Family ties,Anhörig till flykting-/asylgrund,Family of refugee/asylum recipient,Totalt,Total,2278
+2025,Anknytning,Family ties,Anhörig till övriga,Family of other,Vuxen,Adult,14267
+2025,Anknytning,Family ties,Anhörig till övriga,Family of other,Barn i familj,Child in family,8368
+2025,Anknytning,Family ties,Anhörig till övriga,Family of other,Ensamkommande barn,Unaccompanied minor,4
+2025,Anknytning,Family ties,Anhörig till övriga,Family of other,Totalt,Total,22639
+2025,Anknytning,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Vuxen,Adult,76
+2025,Anknytning,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Barn i familj,Child in family,207
+2025,Anknytning,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Ensamkommande barn,Unaccompanied minor,1
+2025,Anknytning,Family ties,Synnerliga skäl anknytning (5 KAP 3a § 3 st 1 och 3 UTLL),"Exceptional grounds, family ties",Totalt,Total,284
+2025,Anknytning,Family ties,Totalt,Total,Vuxen,Adult,15004
+2025,Anknytning,Family ties,Totalt,Total,Barn i familj,Child in family,10202
+2025,Anknytning,Family ties,Totalt,Total,Ensamkommande barn,Unaccompanied minor,5
+2025,Anknytning,Family ties,Totalt,Total,Totalt,Total,25211
+2025,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Vuxen,Adult,4090
+2025,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Barn i familj,Child in family,4281
+2025,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Ensamkommande barn,Unaccompanied minor,3
+2025,Arbetsmarknad,Labour market,"Anhörig, arbetsmarknad",Family of labour migrant,Totalt,Total,8374
+2025,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Vuxen,Adult,11100
+2025,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,Arbetstagare,Employee (work permit),Totalt,Total,11100
+2025,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Vuxen,Adult,67
+2025,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,Egen företagare,Self-employed,Totalt,Total,67
+2025,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Vuxen,Adult,1501
+2025,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,Forskare (alla),Researcher (all),Totalt,Total,1501
+2025,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Vuxen,Adult,1134
+2025,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,"Internationellt utbyte (Artist,Aupair,Praktikant,Ungdomsutbyte)","International exchange (artist, au pair, intern, youth)",Totalt,Total,1134
+2025,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Vuxen,Adult,485
+2025,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,Professionell idrottsutövare/tränare,Professional athlete/coach,Totalt,Total,485
+2025,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Vuxen,Adult,294
+2025,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,Söka arbete eller starta verksamhet,Job-seeker / start business,Totalt,Total,294
+2025,Arbetsmarknad,Labour market,Volontär,Volunteer,Vuxen,Adult,3
+2025,Arbetsmarknad,Labour market,Volontär,Volunteer,Barn i familj,Child in family,0
+2025,Arbetsmarknad,Labour market,Volontär,Volunteer,Ensamkommande barn,Unaccompanied minor,0
+2025,Arbetsmarknad,Labour market,Volontär,Volunteer,Totalt,Total,3
+2025,Arbetsmarknad,Labour market,Totalt,Total,Vuxen,Adult,18674
+2025,Arbetsmarknad,Labour market,Totalt,Total,Barn i familj,Child in family,4281
+2025,Arbetsmarknad,Labour market,Totalt,Total,Ensamkommande barn,Unaccompanied minor,3
+2025,Arbetsmarknad,Labour market,Totalt,Total,Totalt,Total,22958
+2025,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Vuxen,Adult,2429
+2025,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Barn i familj,Child in family,3228
+2025,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Ensamkommande barn,Unaccompanied minor,1
+2025,EU/EES,EU/EEA,Anhörig till varaktigt bosatt i annat EU-land,Family of long-term EU resident,Totalt,Total,5658
+2025,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Vuxen,Adult,1854
+2025,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Barn i familj,Child in family,304
+2025,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Ensamkommande barn,Unaccompanied minor,0
+2025,EU/EES,EU/EEA,Anhörig tredjelandsmedborgare till EES-medborgare,Third-country family of EEA citizen,Totalt,Total,2158
+2025,EU/EES,EU/EEA,Schweiz,Switzerland,Vuxen,Adult,558
+2025,EU/EES,EU/EEA,Schweiz,Switzerland,Barn i familj,Child in family,67
+2025,EU/EES,EU/EEA,Schweiz,Switzerland,Ensamkommande barn,Unaccompanied minor,0
+2025,EU/EES,EU/EEA,Schweiz,Switzerland,Totalt,Total,625
+2025,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Vuxen,Adult,2479
+2025,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Barn i familj,Child in family,15
+2025,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Ensamkommande barn,Unaccompanied minor,0
+2025,EU/EES,EU/EEA,Varaktigt bosatt i annat EU-land,"Long-term resident, other EU country",Totalt,Total,2494
+2025,EU/EES,EU/EEA,Totalt,Total,Vuxen,Adult,7320
+2025,EU/EES,EU/EEA,Totalt,Total,Barn i familj,Child in family,3614
+2025,EU/EES,EU/EEA,Totalt,Total,Ensamkommande barn,Unaccompanied minor,1
+2025,EU/EES,EU/EEA,Totalt,Total,Totalt,Total,10935
+2025,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Vuxen,Adult,230
+2025,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Barn i familj,Child in family,94
+2025,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Ensamkommande barn,Unaccompanied minor,26
+2025,Skydd,Protection (asylum),Alternativt skyddsbehövande (4 KAP 2 UTLL),Subsidiary protection,Totalt,Total,350
+2025,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Vuxen,Adult,1294
+2025,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Barn i familj,Child in family,304
+2025,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Ensamkommande barn,Unaccompanied minor,30
+2025,Skydd,Protection (asylum),Konventionsflykting (4 KAP 1 UTLL),Convention refugee,Totalt,Total,1628
+2025,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Vuxen,Adult,7090
+2025,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Barn i familj,Child in family,1910
+2025,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Ensamkommande barn,Unaccompanied minor,254
+2025,Skydd,Protection (asylum),Massflyktsdirektivet 2001/55/EG,Mass displacement directive 2001/55/EC,Totalt,Total,9254
+2025,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Vuxen,Adult,364
+2025,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Barn i familj,Child in family,293
+2025,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Ensamkommande barn,Unaccompanied minor,9
+2025,Skydd,Protection (asylum),Särskilt och synnerligen ömmande omständigheter (5 KAP 6 UTLL + 18§ TL),Particularly distressing circumstances,Totalt,Total,666
+2025,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Vuxen,Adult,335
+2025,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Barn i familj,Child in family,505
+2025,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Ensamkommande barn,Unaccompanied minor,21
+2025,Skydd,Protection (asylum),Vidarebosättning (Kvot),Resettlement (quota refugee),Totalt,Total,861
+2025,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Vuxen,Adult,43
+2025,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Barn i familj,Child in family,7
+2025,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Ensamkommande barn,Unaccompanied minor,1
+2025,Skydd,Protection (asylum),Övrig skyddsbehövande (4 KAP 2A UTLL),Other person in need of protection,Totalt,Total,51
+2025,Skydd,Protection (asylum),Totalt,Total,Vuxen,Adult,9356
+2025,Skydd,Protection (asylum),Totalt,Total,Barn i familj,Child in family,3113
+2025,Skydd,Protection (asylum),Totalt,Total,Ensamkommande barn,Unaccompanied minor,341
+2025,Skydd,Protection (asylum),Totalt,Total,Totalt,Total,12810
+2025,Studier,Studies,Anhörig till studerande,Family of student,Vuxen,Adult,1945
+2025,Studier,Studies,Anhörig till studerande,Family of student,Barn i familj,Child in family,1269
+2025,Studier,Studies,Anhörig till studerande,Family of student,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Anhörig till studerande,Family of student,Totalt,Total,3214
+2025,Studier,Studies,Arbetssökande student,Job-seeking student,Vuxen,Adult,1653
+2025,Studier,Studies,Arbetssökande student,Job-seeking student,Barn i familj,Child in family,0
+2025,Studier,Studies,Arbetssökande student,Job-seeking student,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Arbetssökande student,Job-seeking student,Totalt,Total,1653
+2025,Studier,Studies,Doktorand,Doctoral student,Vuxen,Adult,810
+2025,Studier,Studies,Doktorand,Doctoral student,Barn i familj,Child in family,0
+2025,Studier,Studies,Doktorand,Doctoral student,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Doktorand,Doctoral student,Totalt,Total,810
+2025,Studier,Studies,Högre utbildning,Higher education,Vuxen,Adult,10247
+2025,Studier,Studies,Högre utbildning,Higher education,Barn i familj,Child in family,36
+2025,Studier,Studies,Högre utbildning,Higher education,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Högre utbildning,Higher education,Totalt,Total,10283
+2025,Studier,Studies,Studerande övriga studier,Student – other studies,Vuxen,Adult,72
+2025,Studier,Studies,Studerande övriga studier,Student – other studies,Barn i familj,Child in family,62
+2025,Studier,Studies,Studerande övriga studier,Student – other studies,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Studerande övriga studier,Student – other studies,Totalt,Total,134
+2025,Studier,Studies,Studier mobilitet,Student mobility,Vuxen,Adult,284
+2025,Studier,Studies,Studier mobilitet,Student mobility,Barn i familj,Child in family,1
+2025,Studier,Studies,Studier mobilitet,Student mobility,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Studier mobilitet,Student mobility,Totalt,Total,285
+2025,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Vuxen,Adult,3
+2025,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Barn i familj,Child in family,0
+2025,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Uppdrags- eller specialiseringsutbildning,Contract or specialisation training,Totalt,Total,3
+2025,Studier,Studies,Totalt,Total,Vuxen,Adult,15014
+2025,Studier,Studies,Totalt,Total,Barn i familj,Child in family,1368
+2025,Studier,Studies,Totalt,Total,Ensamkommande barn,Unaccompanied minor,0
+2025,Studier,Studies,Totalt,Total,Totalt,Total,16382
+2025,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Vuxen,Adult,2
+2025,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Barn i familj,Child in family,0
+2025,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Ensamkommande barn,Unaccompanied minor,0
+2025,Verkställighetshinder,Impediments to enforcement,Humanitär/Medicinsk grund,Humanitarian/medical grounds,Totalt,Total,2
+2025,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Vuxen,Adult,7
+2025,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Barn i familj,Child in family,2
+2025,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Ensamkommande barn,Unaccompanied minor,0
+2025,Verkställighetshinder,Impediments to enforcement,Mottagarlandet tar ej emot,Receiving country refuses,Totalt,Total,9
+2025,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Vuxen,Adult,47
+2025,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Barn i familj,Child in family,3
+2025,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Ensamkommande barn,Unaccompanied minor,0
+2025,Verkställighetshinder,Impediments to enforcement,Tillsvidare verkställighetshinder,Lasting enforcement impediment,Totalt,Total,50
+2025,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Vuxen,Adult,440
+2025,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Barn i familj,Child in family,135
+2025,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Ensamkommande barn,Unaccompanied minor,6
+2025,Verkställighetshinder,Impediments to enforcement,Verkställighetshinder annan särskild anledning,Other special enforcement impediment,Totalt,Total,581
+2025,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Vuxen,Adult,496
+2025,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Barn i familj,Child in family,140
+2025,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Ensamkommande barn,Unaccompanied minor,6
+2025,Verkställighetshinder,Impediments to enforcement,Totalt,Total,Totalt,Total,642
