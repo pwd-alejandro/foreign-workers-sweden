@@ -1,9 +1,0 @@
-column,label_sv,label_en
-applications_received_count,Inkomna ansökningar,Applications received
-decisions_made_count,Avgjorda ärenden,Decisions made
-granted_count,Beviljade uppehållstillstånd,Granted permits
-granted_cert_employer_count,Varav certifierade arbetsgivare,Of which: certified-employer track
-rejections_count,Avslag (avgjorda − beviljade),Rejections (decided − granted)
-approval_rate_pct,Beviljandegrad,Approval rate (granted / decided)
-rejection_rate_pct,Avslagsgrad,Rejection rate (rejected / decided)
-open_cases_count,Öppna ärenden,Open / pending cases at period end

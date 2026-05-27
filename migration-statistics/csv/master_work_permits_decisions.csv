@@ -1,9 +1,0 @@
-year,scope,month,snapshot_label,snapshot_ts,applications_received_count,decisions_made_count,granted_count,granted_cert_employer_count,rejections_count,approval_rate_pct,rejection_rate_pct,open_cases_count
-2019,annual,,Feb 2020,20200203003251,59307,52547,42095,9226,10452,80.11,19.89,
-2020,annual,,Feb 2021,20210203012023,46351,45719,31066,5713,14653,67.95,32.05,
-2021,annual,,Jan 2022,20220126135742,56251,52657,38190,9130,14467,72.53,27.47,
-2022,"annual (Årsredovisning, derived from bifallsandel)",,Årsredovisning 2022,ar2022,64915,58704,40506,,18198,69.0,31.0,28191
-2023,annual,,Jan 2024,20240117091456,47195,55187,34579,,20608,62.66,37.34,
-2024,annual,,Jan 2025,20250119120810,36948,44261,24501,,19760,55.36,44.64,
-2025,annual,,Jan 2026,20260119010047,32996,38041,22201,,15840,58.36,41.64,
-2026,YTD (partial year),,Live fetch,live,10859,13485,8873,,4612,65.8,34.2,
