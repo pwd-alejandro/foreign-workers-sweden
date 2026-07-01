@@ -1,6 +1,6 @@
 # Foreign Workers in Sweden
 
-Data-driven journalism for The Local Sweden: one decade of labor migration seen
+Data-driven journalism for One Million Pieces: one decade of labor migration seen
 through Migrationsverket's own statistics — who gets work permits, in which
 occupations, how decisions split between first-time grants and extensions, and how
 long recruitment takes.
