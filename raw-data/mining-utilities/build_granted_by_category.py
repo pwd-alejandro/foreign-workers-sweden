@@ -17,8 +17,16 @@ import csv
 import os
 from collections import defaultdict
 
-SRC = '/Users/alejandro.lozadacort/the-local/the-local/migration-statistics/mined_datasets/minned_work_permits_granted_by_occupation.csv'
-OUT = '/Users/alejandro.lozadacort/the-local/the-local/migration-statistics/mined_datasets/minned_work_permits_granted_by_category.csv'
+SRC = os.path.normpath(os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    '..', '..', 'migration-statistics', 'mined_datasets',
+    'minned_work_permits_granted_by_occupation.csv',
+))
+OUT = os.path.normpath(os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    '..', '..', 'migration-statistics', 'mined_datasets',
+    'minned_work_permits_granted_by_category.csv',
+))
 
 
 def main():

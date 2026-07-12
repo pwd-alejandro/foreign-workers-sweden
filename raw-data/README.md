@@ -12,10 +12,12 @@ raw-data/
 
 ## Where the raw data comes from
 
-All raw data originates from **Migrationsverket** (the Swedish Migration Agency).
-One derived dataset also pulls from the **Statistics Sweden (SCB)** open API
-(recruitment-time series). Older files are sourced via the **Internet Archive
-Wayback Machine** because the live site only retains the most recent few years.
+Most raw data originates from **Migrationsverket** (the Swedish Migration Agency);
+the **population** and **employment** datasets pull from the **Statistics Sweden
+(SCB)** open API. The SCB lineages keep no committed raw file — their `build_*`
+scripts fetch the tables directly at build time. Older Migrationsverket reports are
+sourced via the **Internet Archive Wayback Machine** because the live site only
+retains the most recent few years.
 
 | Folder | Contents | Source |
 | --- | --- | --- |
@@ -24,47 +26,61 @@ Wayback Machine** because the live site only retains the most recent few years.
 
 ## How it becomes the analysis datasets
 
-The scripts in `mining-utilities/` run in two stages. Stage 1 reads the raw
-workbooks and writes the one master CSV; stage 2 reads that master (plus the
-annual-report figures and the SCB API) to build the small derived datasets the
-notebook actually loads.
+Every figure in the notebook follows the same three-step pattern:
 
-### Stage 1 — raw → master CSV (`../migration-statistics/csv/`)
+> **download → transform → visualize**
+>
+> 1. a **download / extract script** writes a raw *master* table to `../migration-statistics/csv/`;
+> 2. a **transform script** reshapes it into a small *derived* table in `../migration-statistics/mined_datasets/`;
+> 3. a **notebook cell** in `migration-analysis.ipynb` loads that derived table and renders one `FIGURE_n_*.svg`.
 
-- **`translations.py`** — Swedish→English label dictionaries (`YRKESOMRADE`,
-  `YRKESGRUPP`, `PERMIT_TYPE`). Not run on its own; imported by `build_csv.py` so
-  every Swedish label gets a paired English column.
-- **`build_csv.py`** — reads the `.xls`/`.xlsx` workbooks from
-  `granted_permits_2015_2025/` and writes the long-format master table
-  `master_work_permits_by_occupation_group.csv` (handles both the 2015–2020
-  legacy layout and the 2021+ modern layout; see that folder's `README.md` for
-  the SSYK96 → SSYK 2012 methodology).
+The SCB lineages (population, employment) are the clearest example: a `build_*`
+script pulls the table from the SCB open API into a `master_*` CSV, a second script
+derives the `minned_*` CSV, and the notebook plots it. The Migrationsverket lineages
+are the same shape with a twist — their raw inputs are committed under this folder
+(PDFs / Excel), so step 1 reads a local file instead of an API, and the hand-keyed
+decision datasets skip the master stage and write the `minned_*` CSV directly.
 
-### Stage 2 — master + reports + SCB API → derived datasets (`../migration-statistics/mined_datasets/`)
+Every script resolves its paths relative to its own location, so they run in place
+with the project venv:
 
-- **`build_granted_by_occupation.py`** — `master_work_permits_by_occupation_group.csv`
-  → `minned_work_permits_granted_by_occupation.csv`.
-- **`add_occupation_category.py`** — adds a coarser `occupation_category` column to
-  `minned_work_permits_granted_by_occupation.csv` (edits it in place); this is what
-  makes the data joinable across the SSYK classification change.
-- **`build_granted_by_category.py`** — `minned_work_permits_granted_by_occupation.csv`
-  → **`minned_work_permits_granted_by_category.csv`**.
-- **`build_work_permit_decisions.py`** — hand-keyed from each year's own
-  `arsredovisning_YYYY.pdf` (see `annual_reports_2001_2025/`); writes
-  **`minned_work_permit_decisions_by_type.csv`** (first-time vs. extension
-  decisions, approval/rejection rates).
-- **`build_average_recruitment_time.py`** — pulls from the SCB open API; writes
-  **`minned_average_recruitment_time_by_industry.csv`**.
+```
+../../migration-statistics/.venv/bin/python <script>.py
+```
 
-The three datasets in **bold** are the ones loaded by
-`../migration-statistics/migration-analysis.ipynb`;
-`minned_work_permits_granted_by_occupation.csv` is an intermediate feeding the
-`_by_category` build.
+### The six figures and their lineages
 
-> **Note on paths:** these scripts were written with hard-coded absolute paths
-> pointing at the original layout (`migration-statistics/...`). They are kept here
-> for provenance and reproducibility; after this reorganization their input/output
-> paths will need updating before they can be re-run.
+| Notebook figure | Derived dataset it loads (`mined_datasets/`) | Transform script(s) | Download / extract script | Raw source |
+|---|---|---|---|---|
+| **FIGURE_1** — first-time work-permit applications & rejections | `minned_work_permit_decisions_by_type.csv` | *(keyed straight to the derived CSV)* | `build_work_permit_decisions.py` | annual-report PDFs |
+| **FIGURE_2** — granted first-time permits by job category | `minned_work_permits_granted_by_category.csv` | `build_granted_by_occupation.py` → `add_occupation_category.py` → `build_granted_by_category.py` | `build_csv.py` (xlsx → master) | granted-permit Excel workbooks |
+| **FIGURE_3** — first-time asylum applications & rejections | `minned_asylum_decisions_by_type.csv` | *(keyed straight to the derived CSV)* | `build_asylum_decisions.py` | annual-report PDFs |
+| **FIGURE_4** — age composition by background | `minned_population_by_agegroup.csv` | `build_population_agegroups.py` | `build_population_by_background.py` | SCB open API (`UtlSvBakgGrov`) |
+| **FIGURE_5** — population with vs without migration | `minned_population_by_agegroup.csv` | `build_population_agegroups.py` | `build_population_by_background.py` | SCB open API (`UtlSvBakgGrov`) |
+| **FIGURE_6** — employment by industry, born in Sweden vs foreign born | `minned_employment_by_industry_birth.csv` | `build_employment_industry_shares.py` | `build_employment_by_industry.py` | SCB open API (`TAB3204`) |
+
+`minned_work_permits_granted_by_occupation.csv` is an intermediate that feeds the
+`_by_category` build; the notebook does not load it directly.
+
+### Script reference
+
+**Work permits by occupation (Excel → master → category)**
+- **`translations.py`** — Swedish→English label dictionaries. Imported by `build_csv.py`; not run on its own.
+- **`build_csv.py`** — reads the `.xls`/`.xlsx` workbooks in `granted_permits_2015_2025/` → `csv/master_work_permits_by_occupation_group.csv` (handles the 2015–2020 legacy and 2021+ modern layouts; see that folder's `README.md` for the SSYK96 → SSYK 2012 mapping).
+- **`build_granted_by_occupation.py`** — master → `minned_work_permits_granted_by_occupation.csv`.
+- **`add_occupation_category.py`** — adds the coarser `occupation_category` column to that file in place (the join key across the SSYK classification change).
+- **`build_granted_by_category.py`** — aggregates it up to `minned_work_permits_granted_by_category.csv`.
+
+**Decisions from the annual reports (hand-keyed from PDFs)**
+- **`pdf_utils.py`** — decrypts and reads the AES-protected report PDFs (see `SKILLS.md`).
+- **`build_work_permit_decisions.py`** — keys first-time vs. extension work-permit decisions → `minned_work_permit_decisions_by_type.csv`.
+- **`build_asylum_decisions.py`** — same for asylum → `minned_asylum_decisions_by_type.csv`.
+
+**Population & employment (SCB open API)**
+- **`build_population_by_background.py`** — SCB `UtlSvBakgGrov` → `csv/master_population_by_background.csv` (persons by Swedish/foreign background, age, sex, 2002–2024).
+- **`build_population_agegroups.py`** — master → `minned_population_by_agegroup.csv` (sex collapsed to a total, `age_group` added).
+- **`build_employment_by_industry.py`** — SCB `TAB3204` → `csv/master_employment_by_industry_birth.csv` (employed 15–74 by NACE industry × region of birth, 2024).
+- **`build_employment_industry_shares.py`** — master → `minned_employment_by_industry_birth.csv` (one row per industry with born-in-Sweden / foreign-born totals and shares).
 
 ## Source URLs — Migrationsverket Årsredovisning (annual report) PDFs, 2001–2025
 

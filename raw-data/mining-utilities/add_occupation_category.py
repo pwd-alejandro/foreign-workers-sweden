@@ -5,7 +5,7 @@ mined_datasets/minned_work_permits_granted_by_occupation.csv.
 The new column slots between `occupation_field` and `occupation_group` and
 collapses the ~150 atomic occupation groups into 22 role-specific clusters
 that crosscut occupation_field (e.g., 'IT managers', 'IT architects' and
-'IT support' all land in 'IT & software', regardless of skill-level field).
+'IT support' all land in 'Technology', regardless of skill-level field).
 
 "Total" pseudo-groups (one per occupation_field) are mapped to 'Total' so
 they remain identifiable and filterable.
@@ -15,18 +15,23 @@ in the source is unmapped (so the schema stays exhaustive).
 """
 
 import csv
+import os
 import sys
 
-CSV_PATH = '/Users/alejandro.lozadacort/the-local/the-local/migration-statistics/mined_datasets/minned_work_permits_granted_by_occupation.csv'
+CSV_PATH = os.path.normpath(os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    '..', '..', 'migration-statistics', 'mined_datasets',
+    'minned_work_permits_granted_by_occupation.csv',
+))
 
 # ---------------------------------------------------------------------------
 # Mapping: occupation_group (English label) -> occupation_category
 # ---------------------------------------------------------------------------
 GROUP_TO_CATEGORY = {
-    # ---- IT & software ------------------------------------------------------
-    'IT architects, developers and test leads': 'IT & software',
-    'IT operations, support and network technicians': 'IT & software',
-    'IT managers': 'IT & software',
+    # ---- Technology ---------------------------------------------------------
+    'IT architects, developers and test leads': 'Technology',
+    'IT operations, support and network technicians': 'Technology',
+    'IT managers': 'Technology',
 
     # ---- Engineering professionals -----------------------------------------
     'Engineering professionals': 'Engineering professionals',
@@ -223,7 +228,7 @@ GROUP_TO_CATEGORY = {
     # with the 2018+ taxonomy at the category level. SSYK96 groups carry the
     # "(SSYK96)" suffix; "transitional" labels appear only in 2017.
     # ------------------------------------------------------------------------
-    'Computing professionals (SSYK96)': 'IT & software',
+    'Computing professionals (SSYK96)': 'Technology',
 
     'Engineering professionals, architects etc. (SSYK96)': 'Engineering professionals',
     'Physicists and chemists (SSYK96)': 'Natural sciences (research)',

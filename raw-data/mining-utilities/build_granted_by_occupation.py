@@ -17,8 +17,16 @@ Rules:
 import csv
 import os
 
-SRC = '/Users/alejandro.lozadacort/the-local/the-local/migration-statistics/csv/master_work_permits_by_occupation_group.csv'
-OUT = '/Users/alejandro.lozadacort/the-local/the-local/migration-statistics/mined_datasets/minned_work_permits_granted_by_occupation.csv'
+SRC = os.path.normpath(os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    '..', '..', 'migration-statistics', 'csv',
+    'master_work_permits_by_occupation_group.csv',
+))
+OUT = os.path.normpath(os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    '..', '..', 'migration-statistics', 'mined_datasets',
+    'minned_work_permits_granted_by_occupation.csv',
+))
 
 
 def main():

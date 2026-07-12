@@ -52,7 +52,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2015,first-time,Managers,"Business, finance & legal",Finance managers,32
 2015,first-time,Managers,"Business, finance & legal",HR managers,23
 2015,first-time,Managers,Hospitality & food service,Hotel and conference managers,1
-2015,first-time,Managers,IT & software,IT managers,22
+2015,first-time,Managers,Technology,IT managers,22
 2015,first-time,Managers,Engineering professionals,Managers in architecture and engineering,6
 2015,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",2
 2015,first-time,Managers,General management,Managers in other service industries,2
@@ -85,7 +85,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2015,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,34
 2015,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,709
 2015,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,7
-2015,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",3252
+2015,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",3252
 2015,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,19
 2015,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,81
 2015,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",4
@@ -128,7 +128,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2015,first-time,Occupations requiring shorter university competence or equivalent (SSYK96),"Sales, retail & marketing","Salespersons, buyers and brokers (SSYK96)",2
 2015,first-time,Occupations requiring shorter university competence or equivalent (SSYK96),Total,Total,6
 2015,first-time,Occupations requiring theoretical specialist competence (SSYK96),"Business, finance & legal","Business economists, marketers and HR officers (SSYK96)",1
-2015,first-time,Occupations requiring theoretical specialist competence (SSYK96),IT & software,Computing professionals (SSYK96),10
+2015,first-time,Occupations requiring theoretical specialist competence (SSYK96),Technology,Computing professionals (SSYK96),10
 2015,first-time,Occupations requiring theoretical specialist competence (SSYK96),Engineering professionals,"Engineering professionals, architects etc. (SSYK96)",10
 2015,first-time,Occupations requiring theoretical specialist competence (SSYK96),Doctors & dentists,Health-care specialists (SSYK96),1
 2015,first-time,Occupations requiring theoretical specialist competence (SSYK96),"Arts, media & culture","Journalists, artists and actors (SSYK96)",1
@@ -143,7 +143,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2015,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,5
 2015,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,313
 2015,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,10
-2015,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",39
+2015,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",39
 2015,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",1
 2015,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",104
 2015,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,8
@@ -235,7 +235,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2016,first-time,Managers,"Business, finance & legal",Finance managers,19
 2016,first-time,Managers,"Business, finance & legal",HR managers,13
 2016,first-time,Managers,Hospitality & food service,Hotel and conference managers,1
-2016,first-time,Managers,IT & software,IT managers,98
+2016,first-time,Managers,Technology,IT managers,98
 2016,first-time,Managers,Engineering professionals,Managers in architecture and engineering,4
 2016,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",2
 2016,first-time,Managers,Education,"Managers in primary, secondary and adult education",1
@@ -263,7 +263,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2016,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,48
 2016,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,790
 2016,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,12
-2016,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",3737
+2016,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",3737
 2016,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,11
 2016,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,72
 2016,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",9
@@ -298,7 +298,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2016,first-time,Occupations requiring short training or introduction,Total,Total,3916
 2016,first-time,Occupations requiring shorter university competence or equivalent (SSYK96),"Arts, media & culture","Designers, entertainers and professional athletes (SSYK96)",1
 2016,first-time,Occupations requiring shorter university competence or equivalent (SSYK96),Total,Total,1
-2016,first-time,Occupations requiring theoretical specialist competence (SSYK96),IT & software,Computing professionals (SSYK96),1
+2016,first-time,Occupations requiring theoretical specialist competence (SSYK96),Technology,Computing professionals (SSYK96),1
 2016,first-time,Occupations requiring theoretical specialist competence (SSYK96),Total,Total,1
 2016,first-time,Occupations requiring university competence or equivalent,Nurses & allied health,Alternative medicine therapists,2
 2016,first-time,Occupations requiring university competence or equivalent,Personal services & sports,Athletes and recreation leaders,10
@@ -308,7 +308,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2016,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,3
 2016,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,335
 2016,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,12
-2016,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",31
+2016,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",31
 2016,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",1
 2016,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",112
 2016,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,9
@@ -388,7 +388,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2017,first-time,Managers,"Business, finance & legal",Finance managers,25
 2017,first-time,Managers,"Business, finance & legal",HR managers,15
 2017,first-time,Managers,Hospitality & food service,Hotel and conference managers,3
-2017,first-time,Managers,IT & software,IT managers,132
+2017,first-time,Managers,Technology,IT managers,132
 2017,first-time,Managers,Engineering professionals,Managers in architecture and engineering,10
 2017,first-time,Managers,Care & nursing aides,Managers in healthcare,2
 2017,first-time,Managers,Education,"Managers in primary, secondary and adult education",2
@@ -416,7 +416,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2017,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,52
 2017,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1082
 2017,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,10
-2017,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",4029
+2017,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",4029
 2017,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,20
 2017,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,115
 2017,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",6
@@ -455,7 +455,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2017,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,6
 2017,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,431
 2017,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,15
-2017,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",246
+2017,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",246
 2017,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",4
 2017,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",137
 2017,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,8
@@ -530,7 +530,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2018,first-time,Managers,"Agriculture, forestry & fisheries",Forestry and agriculture managers,1
 2018,first-time,Managers,"Business, finance & legal",HR managers,28
 2018,first-time,Managers,Hospitality & food service,Hotel and conference managers,1
-2018,first-time,Managers,IT & software,IT managers,76
+2018,first-time,Managers,Technology,IT managers,76
 2018,first-time,Managers,Engineering professionals,Managers in architecture and engineering,8
 2018,first-time,Managers,Education,"Managers in primary, secondary and adult education",1
 2018,first-time,Managers,"Sales, retail & marketing",Managers in retail and wholesale,2
@@ -558,7 +558,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2018,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,59
 2018,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1249
 2018,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,8
-2018,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",4415
+2018,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",4415
 2018,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,25
 2018,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,134
 2018,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",12
@@ -597,7 +597,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2018,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,4
 2018,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,656
 2018,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,12
-2018,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",480
+2018,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",480
 2018,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",11
 2018,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",146
 2018,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,10
@@ -674,7 +674,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2019,first-time,Managers,"Business, finance & legal",Finance managers,33
 2019,first-time,Managers,"Business, finance & legal",HR managers,20
 2019,first-time,Managers,Hospitality & food service,Hotel and conference managers,2
-2019,first-time,Managers,IT & software,IT managers,46
+2019,first-time,Managers,Technology,IT managers,46
 2019,first-time,Managers,Engineering professionals,Managers in architecture and engineering,15
 2019,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",4
 2019,first-time,Managers,General management,Managers in other service industries,7
@@ -703,7 +703,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2019,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,57
 2019,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1003
 2019,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,13
-2019,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",4347
+2019,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",4347
 2019,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,27
 2019,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,135
 2019,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",8
@@ -742,7 +742,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2019,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,5
 2019,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,921
 2019,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,8
-2019,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",509
+2019,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",509
 2019,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",5
 2019,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",141
 2019,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,12
@@ -818,7 +818,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2020,first-time,Managers,"Business, finance & legal",Finance managers,17
 2020,first-time,Managers,"Agriculture, forestry & fisheries",Forestry and agriculture managers,1
 2020,first-time,Managers,"Business, finance & legal",HR managers,25
-2020,first-time,Managers,IT & software,IT managers,52
+2020,first-time,Managers,Technology,IT managers,52
 2020,first-time,Managers,Engineering professionals,Managers in architecture and engineering,8
 2020,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",2
 2020,first-time,Managers,General management,Managers in other service industries,8
@@ -848,7 +848,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2020,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,72
 2020,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,609
 2020,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,9
-2020,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",2511
+2020,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",2511
 2020,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,32
 2020,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,111
 2020,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",9
@@ -886,7 +886,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2020,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,2
 2020,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,667
 2020,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,6
-2020,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",307
+2020,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",307
 2020,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",4
 2020,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",147
 2020,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,17
@@ -956,7 +956,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2021,first-time,Managers,"Sales, retail & marketing",Communications and PR managers,13
 2021,first-time,Managers,"Business, finance & legal",Finance managers,35
 2021,first-time,Managers,"Business, finance & legal",HR managers,36
-2021,first-time,Managers,IT & software,IT managers,71
+2021,first-time,Managers,Technology,IT managers,71
 2021,first-time,Managers,Engineering professionals,Managers in architecture and engineering,12
 2021,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",5
 2021,first-time,Managers,Care & nursing aides,Managers in healthcare,2
@@ -987,7 +987,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2021,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,77
 2021,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1178
 2021,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,19
-2021,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",3723
+2021,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",3723
 2021,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,36
 2021,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,199
 2021,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",11
@@ -1024,7 +1024,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2021,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,21
 2021,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1349
 2021,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,9
-2021,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",400
+2021,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",400
 2021,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",12
 2021,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",176
 2021,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,20
@@ -1095,7 +1095,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2021,extension,Managers,"Agriculture, forestry & fisheries",Forestry and agriculture managers,0
 2021,extension,Managers,"Business, finance & legal",HR managers,0
 2021,extension,Managers,Hospitality & food service,Hotel and conference managers,0
-2021,extension,Managers,IT & software,IT managers,0
+2021,extension,Managers,Technology,IT managers,0
 2021,extension,Managers,Engineering professionals,Managers in architecture and engineering,0
 2021,extension,Managers,"Business, finance & legal","Managers in banking, finance and insurance",0
 2021,extension,Managers,Care & nursing aides,Managers in elderly care,0
@@ -1129,7 +1129,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2021,extension,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,0
 2021,extension,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,0
 2021,extension,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,0
-2021,extension,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",0
+2021,extension,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",0
 2021,extension,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,0
 2021,extension,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,0
 2021,extension,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",0
@@ -1169,7 +1169,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2021,extension,Occupations requiring university competence or equivalent,Education,Driving instructors,0
 2021,extension,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,0
 2021,extension,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,0
-2021,extension,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",0
+2021,extension,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",0
 2021,extension,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",0
 2021,extension,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",0
 2021,extension,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,0
@@ -1244,7 +1244,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2022,first-time,Managers,"Sales, retail & marketing",Communications and PR managers,4
 2022,first-time,Managers,"Business, finance & legal",Finance managers,33
 2022,first-time,Managers,"Business, finance & legal",HR managers,47
-2022,first-time,Managers,IT & software,IT managers,74
+2022,first-time,Managers,Technology,IT managers,74
 2022,first-time,Managers,Engineering professionals,Managers in architecture and engineering,10
 2022,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",7
 2022,first-time,Managers,General management,Managers in other service industries,9
@@ -1272,7 +1272,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2022,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,86
 2022,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1693
 2022,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,21
-2022,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",5006
+2022,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",5006
 2022,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,29
 2022,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,233
 2022,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",16
@@ -1310,7 +1310,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2022,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,12
 2022,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1694
 2022,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,5
-2022,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",441
+2022,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",441
 2022,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",6
 2022,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",202
 2022,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,19
@@ -1386,7 +1386,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2022,extension,Managers,"Business, finance & legal",Finance managers,28
 2022,extension,Managers,"Agriculture, forestry & fisheries",Forestry and agriculture managers,1
 2022,extension,Managers,"Business, finance & legal",HR managers,14
-2022,extension,Managers,IT & software,IT managers,57
+2022,extension,Managers,Technology,IT managers,57
 2022,extension,Managers,Engineering professionals,Managers in architecture and engineering,12
 2022,extension,Managers,"Business, finance & legal","Managers in banking, finance and insurance",1
 2022,extension,Managers,Care & nursing aides,Managers in healthcare,1
@@ -1416,7 +1416,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2022,extension,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,161
 2022,extension,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1036
 2022,extension,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,8
-2022,extension,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",3653
+2022,extension,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",3653
 2022,extension,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,23
 2022,extension,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,146
 2022,extension,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",8
@@ -1454,7 +1454,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2022,extension,Occupations requiring university competence or equivalent,Education,Driving instructors,6
 2022,extension,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,749
 2022,extension,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,9
-2022,extension,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",311
+2022,extension,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",311
 2022,extension,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",2
 2022,extension,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",162
 2022,extension,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,14
@@ -1529,7 +1529,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2023,first-time,Managers,"Business, finance & legal",Finance managers,39
 2023,first-time,Managers,"Business, finance & legal",HR managers,15
 2023,first-time,Managers,Hospitality & food service,Hotel and conference managers,1
-2023,first-time,Managers,IT & software,IT managers,71
+2023,first-time,Managers,Technology,IT managers,71
 2023,first-time,Managers,Engineering professionals,Managers in architecture and engineering,18
 2023,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",5
 2023,first-time,Managers,Care & nursing aides,Managers in healthcare,1
@@ -1560,7 +1560,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2023,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,128
 2023,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1479
 2023,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,32
-2023,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",3703
+2023,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",3703
 2023,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,34
 2023,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,210
 2023,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",7
@@ -1597,7 +1597,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2023,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,6
 2023,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1692
 2023,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,13
-2023,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",390
+2023,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",390
 2023,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",5
 2023,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",192
 2023,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,18
@@ -1672,7 +1672,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2023,extension,Managers,"Business, finance & legal",Finance managers,52
 2023,extension,Managers,"Business, finance & legal",HR managers,27
 2023,extension,Managers,Hospitality & food service,Hotel and conference managers,4
-2023,extension,Managers,IT & software,IT managers,133
+2023,extension,Managers,Technology,IT managers,133
 2023,extension,Managers,Engineering professionals,Managers in architecture and engineering,17
 2023,extension,Managers,"Business, finance & legal","Managers in banking, finance and insurance",13
 2023,extension,Managers,Care & nursing aides,Managers in healthcare,2
@@ -1701,7 +1701,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2023,extension,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,295
 2023,extension,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,2106
 2023,extension,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,33
-2023,extension,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",7612
+2023,extension,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",7612
 2023,extension,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,65
 2023,extension,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,361
 2023,extension,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",23
@@ -1739,7 +1739,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2023,extension,Occupations requiring university competence or equivalent,Education,Driving instructors,14
 2023,extension,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1787
 2023,extension,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,17
-2023,extension,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",686
+2023,extension,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",686
 2023,extension,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",15
 2023,extension,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",360
 2023,extension,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,37
@@ -1813,7 +1813,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2024,first-time,Managers,"Sales, retail & marketing",Communications and PR managers,13
 2024,first-time,Managers,"Business, finance & legal",Finance managers,33
 2024,first-time,Managers,"Business, finance & legal",HR managers,16
-2024,first-time,Managers,IT & software,IT managers,56
+2024,first-time,Managers,Technology,IT managers,56
 2024,first-time,Managers,Engineering professionals,Managers in architecture and engineering,20
 2024,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",5
 2024,first-time,Managers,Care & nursing aides,Managers in healthcare,3
@@ -1847,7 +1847,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2024,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,118
 2024,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1223
 2024,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,34
-2024,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",2588
+2024,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",2588
 2024,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,26
 2024,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,146
 2024,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",7
@@ -1884,7 +1884,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2024,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,15
 2024,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1546
 2024,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,9
-2024,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",263
+2024,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",263
 2024,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",7
 2024,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",170
 2024,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,25
@@ -1957,7 +1957,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2024,extension,Managers,"Business, finance & legal",Finance managers,38
 2024,extension,Managers,"Business, finance & legal",HR managers,24
 2024,extension,Managers,Hospitality & food service,Hotel and conference managers,2
-2024,extension,Managers,IT & software,IT managers,110
+2024,extension,Managers,Technology,IT managers,110
 2024,extension,Managers,Engineering professionals,Managers in architecture and engineering,20
 2024,extension,Managers,"Business, finance & legal","Managers in banking, finance and insurance",7
 2024,extension,Managers,Care & nursing aides,Managers in healthcare,3
@@ -1988,7 +1988,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2024,extension,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,404
 2024,extension,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,2074
 2024,extension,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,39
-2024,extension,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",6084
+2024,extension,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",6084
 2024,extension,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,44
 2024,extension,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,287
 2024,extension,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",16
@@ -2027,7 +2027,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2024,extension,Occupations requiring university competence or equivalent,Education,Driving instructors,8
 2024,extension,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1761
 2024,extension,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,15
-2024,extension,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",512
+2024,extension,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",512
 2024,extension,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",11
 2024,extension,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",283
 2024,extension,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,36
@@ -2101,7 +2101,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2025,first-time,Managers,"Sales, retail & marketing",Communications and PR managers,3
 2025,first-time,Managers,"Business, finance & legal",Finance managers,36
 2025,first-time,Managers,"Business, finance & legal",HR managers,19
-2025,first-time,Managers,IT & software,IT managers,54
+2025,first-time,Managers,Technology,IT managers,54
 2025,first-time,Managers,Engineering professionals,Managers in architecture and engineering,12
 2025,first-time,Managers,"Business, finance & legal","Managers in banking, finance and insurance",5
 2025,first-time,Managers,General management,Managers in other service industries,1
@@ -2131,7 +2131,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2025,first-time,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,87
 2025,first-time,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,1066
 2025,first-time,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,39
-2025,first-time,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",2181
+2025,first-time,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",2181
 2025,first-time,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,30
 2025,first-time,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,138
 2025,first-time,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",4
@@ -2165,7 +2165,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2025,first-time,Occupations requiring university competence or equivalent,Education,Driving instructors,2
 2025,first-time,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1149
 2025,first-time,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,7
-2025,first-time,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",254
+2025,first-time,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",254
 2025,first-time,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",37
 2025,first-time,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",143
 2025,first-time,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,10
@@ -2236,7 +2236,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2025,extension,Managers,"Business, finance & legal",Finance managers,43
 2025,extension,Managers,"Business, finance & legal",HR managers,19
 2025,extension,Managers,Hospitality & food service,Hotel and conference managers,1
-2025,extension,Managers,IT & software,IT managers,97
+2025,extension,Managers,Technology,IT managers,97
 2025,extension,Managers,Engineering professionals,Managers in architecture and engineering,31
 2025,extension,Managers,"Business, finance & legal","Managers in banking, finance and insurance",10
 2025,extension,Managers,Care & nursing aides,Managers in elderly care,1
@@ -2269,7 +2269,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2025,extension,Occupations requiring advanced university competence,Doctors & dentists,Doctors / physicians,392
 2025,extension,Occupations requiring advanced university competence,Engineering professionals,Engineering professionals,2129
 2025,extension,Occupations requiring advanced university competence,Natural sciences (research),Environmental and health protection specialists,48
-2025,extension,Occupations requiring advanced university competence,IT & software,"IT architects, developers and test leads",5675
+2025,extension,Occupations requiring advanced university competence,Technology,"IT architects, developers and test leads",5675
 2025,extension,Occupations requiring advanced university competence,"Business, finance & legal",Lawyers,32
 2025,extension,Occupations requiring advanced university competence,"Sales, retail & marketing",Marketers and communicators,353
 2025,extension,Occupations requiring advanced university competence,"Business, finance & legal","Mathematicians, actuaries and statisticians",15
@@ -2306,7 +2306,7 @@ year,permit_type,occupation_field,occupation_category,occupation_group,number_gr
 2025,extension,Occupations requiring university competence or equivalent,Education,Driving instructors,15
 2025,extension,Occupations requiring university competence or equivalent,Engineering professionals,Engineers and technicians,1431
 2025,extension,Occupations requiring university competence or equivalent,Hospitality & food service,Head chefs and sous chefs,10
-2025,extension,Occupations requiring university competence or equivalent,IT & software,"IT operations, support and network technicians",485
+2025,extension,Occupations requiring university competence or equivalent,Technology,"IT operations, support and network technicians",485
 2025,extension,Occupations requiring university competence or equivalent,"Arts, media & culture","Image, sound and lighting technicians",13
 2025,extension,Occupations requiring university competence or equivalent,"Sales, retail & marketing","Insurance advisors, business sales and buyers",322
 2025,extension,Occupations requiring university competence or equivalent,"Business, finance & legal",Legal and executive secretaries,27

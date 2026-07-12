@@ -1,0 +1,35 @@
+year,industry_code,industry_name,region_of_birth,employed
+2024,A-U+US,Total,born_in_sweden,4065389
+2024,A-U+US,Total,foreign_born,1195254
+2024,A,"Agriculture, forestry & fishing",born_in_sweden,84915
+2024,A,"Agriculture, forestry & fishing",foreign_born,7543
+2024,B+C,"mining, quarrying, manufacturing ",born_in_sweden,446850
+2024,B+C,"mining, quarrying, manufacturing ",foreign_born,115010
+2024,D+E,Energy & environment,born_in_sweden,53959
+2024,D+E,Energy & environment,foreign_born,7268
+2024,F,construction industry,born_in_sweden,304838
+2024,F,construction industry,foreign_born,66935
+2024,G,trade; repair establishments for motor vehicles and motorcycles,born_in_sweden,495964
+2024,G,trade; repair establishments for motor vehicles and motorcycles,foreign_born,111474
+2024,H,transport and storage companies,born_in_sweden,158473
+2024,H,transport and storage companies,foreign_born,73856
+2024,I,Hospitality,born_in_sweden,110146
+2024,I,Hospitality,foreign_born,87147
+2024,J,information and communication companies,born_in_sweden,192302
+2024,J,information and communication companies,foreign_born,53513
+2024,K,financial institutions and insurance companies,born_in_sweden,95823
+2024,K,financial institutions and insurance companies,foreign_born,16237
+2024,L,real estate companies,born_in_sweden,76114
+2024,L,real estate companies,foreign_born,12470
+2024,M+N,"Professional, scientific & tech",born_in_sweden,497805
+2024,M+N,"Professional, scientific & tech",foreign_born,178624
+2024,O,public authorities and national defence,born_in_sweden,309554
+2024,O,public authorities and national defence,foreign_born,41238
+2024,P,Education,born_in_sweden,427372
+2024,P,Education,foreign_born,123684
+2024,Q,Health & social work,born_in_sweden,609886
+2024,Q,Health & social work,foreign_born,251500
+2024,R+S+T+U,"establishments for arts, entertainment and recreation; other service companies etc.",born_in_sweden,192223
+2024,R+S+T+U,"establishments for arts, entertainment and recreation; other service companies etc.",foreign_born,45529
+2024,US,not available,born_in_sweden,9164
+2024,US,not available,foreign_born,3230

@@ -13,7 +13,7 @@ import openpyxl, xlrd
 sys.path.insert(0, str(Path(__file__).parent))
 import translations as T
 
-BASE = Path("/Users/alejandro.lozadacort/the-local/the-local/migration-statistics")
+BASE = Path(__file__).resolve().parents[2] / "migration-statistics"
 OUT = BASE / "csv"
 OUT.mkdir(exist_ok=True)
 

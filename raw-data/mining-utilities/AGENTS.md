@@ -5,13 +5,14 @@ into the analysis CSVs. Read this before touching a build script or a PDF.
 
 ## What lives here
 
-Two independent data lineages feed `../../migration-statistics/`:
+Four data lineages feed `../../migration-statistics/`:
 
-| Lineage | Raw source | Extraction | Build script |
+| Lineage | Raw source | Extraction | Build script(s) |
 |---|---|---|---|
-| **A. Work permits** (by occupation) | `../granted_permits_2015_2025/*.xls[x]` | **Automated** (openpyxl/xlrd) | `build_csv.py` → derived by `build_granted_by_*` / `add_occupation_category.py` |
+| **A. Work permits** (by occupation) | `../granted_permits_2015_2025/*.xls[x]` | **Automated** (openpyxl/xlrd) | `build_csv.py` → `build_granted_by_occupation.py` → `add_occupation_category.py` → `build_granted_by_category.py` |
 | **B. Decisions by case type** (asylum, labour-market, …) | `../annual_reports_2001_2025/arsredovisning_YYYY.pdf` | **Hand-keyed** from PDF tables | `build_work_permit_decisions.py`, `build_asylum_decisions.py` |
-| **C. Recruitment time** | SCB open API | API pull | `build_average_recruitment_time.py` |
+| **C. Population by background** | SCB open API (`UtlSvBakgGrov`) | API pull | `build_population_by_background.py` → `build_population_agegroups.py` |
+| **D. Employment by industry & birth region** | SCB open API (`TAB3204`) | API pull | `build_employment_by_industry.py` → `build_employment_industry_shares.py` |
 
 The Excel workbooks contain **work permits only** — no asylum, family, student, or
 other migration types. Every other migration category comes from the annual-report
