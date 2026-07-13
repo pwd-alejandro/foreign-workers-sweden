@@ -1,7 +1,7 @@
 # Foreign Workers in Sweden
 
 Data-driven journalism for One Million Pieces: one decade of labor migration seen
-through Migrationsverket's and Statistics Sweden's (SCB) own statistics — who gets
+through Migrationsverket's and Statistics Sweden's (SCB) own statistics. Who gets
 work permits, in which occupations, how decisions split between first-time grants
 and extensions, and how migration shapes Sweden's workforce and population.
 
